@@ -20,7 +20,7 @@ a:hover{
 }
 
 .conteudo{
-    color: white;
+    color: black;
     display: flex;
     padding: 100px;
     display: inline-block;
@@ -116,3 +116,4 @@ nav{
 .mobile-menu.active .line3{
     transform: rotate(45deg) translate(-5px, -7px);  
 }
+
