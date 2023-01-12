@@ -57,7 +57,7 @@ nav{
 .mobile_menu div{
     width: 32px; 
     height: 2px;
-    background-color: black;
+    background-color: whitesmoke;
     margin: 8px;
     transition: 0.3s;
 }
@@ -72,7 +72,7 @@ nav{
         right: 0;
         width: 50vw; /*representa largura*/
         height: 92vh; /*representa altura*/
-        background: whitesmoke;
+        background: #003756;
         flex-direction: column;
         align-items: center;
         justify-content: space-around;
