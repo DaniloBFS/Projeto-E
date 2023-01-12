@@ -1,0 +1,21 @@
+#container{
+    display: grid;
+    grid-template-columns:repeat(3, auto);
+    justify-content: stretch;
+    margin-bottom: 20%;
+    text-align: justify;
+     /*background-color:red;*/
+}
+
+.box_prod{
+    background-color: aqua;
+    width: 20vw;
+    height: 30vw;
+    margin-top: 5em; 
+    margin-left: 3em;
+    margin-bottom: 20%;
+}
+
+.sub_titulo{
+   text-align: center;
+}
