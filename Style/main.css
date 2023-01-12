@@ -1,0 +1,12 @@
+#slogan{
+    margin-left: 10vh; 
+    margin-right: 10vh;
+    color:grey;
+    display: inline;
+}
+
+#perfil_exito{
+    margin-top: 1vh;
+    margin-left: 10vh;
+    display: inline-flex;
+}

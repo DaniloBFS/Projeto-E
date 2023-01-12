@@ -24,10 +24,10 @@ a:hover{
     display: flex;
     padding: 100px;
     display: inline-block;
-    background-color: whitesmoke;
+    background-color: #e8ebff;
     margin: 8%;
     border-radius: 10px;
-    box-shadow: whitesmoke;
+    box-shadow: #e8ebff;
 }
 
 nav{
@@ -35,26 +35,26 @@ nav{
     justify-content: space-around;
     align-items: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: whitesmoke;
+    background: #e8ebff;
     height: 8vh; /*se refere a 8% da tela*/
 }
 
-.nav-list{
+.nav_list{
     list-style: none;
     display: flex;
 }
 
-.nav-list li{
+.nav_list li{
     letter-spacing: 3px;
     margin-left: 32px;
 }
 
-.mobile-menu{
+.mobile_menu{
     display: none;
     cursor: pointer;
 }
 
-.mobile-menu div{
+.mobile_menu div{
     width: 32px; 
     height: 2px;
     background-color: black;
@@ -66,7 +66,7 @@ nav{
     body{
         overflow-x: hidden; /*tudo que transborda da tela é escondido*/
     }
-    .nav-list{
+    .nav_list{
         position: absolute;
         top: 8vh;
         right: 0;
@@ -79,16 +79,16 @@ nav{
         transform: translateX(100%);
         transition: transform 0.3s ease-in;
     }
-    .nav-list li{
+    .nav_list li{
         margin-left: 0;
         opacity: 0;
     }
-    .mobile-menu{
+    .mobile_menu{
         display: block;
     }
 }
 
-.nav-list.active {
+.nav_list.active {
         transform: translatex(0);
 }
 
@@ -105,15 +105,15 @@ nav{
     
 }
 
-.mobile-menu.active .line1{
+.mobile_menu.active .line1{
     transform: rotate(-45deg) translate(-8px, 8px);
 }
 
-.mobile-menu.active .line2{
+.mobile_menu.active .line2{
     opacity: 0;
 }
 
-.mobile-menu.active .line3{
+.mobile_menu.active .line3{
     transform: rotate(45deg) translate(-5px, -7px);  
 }
 
