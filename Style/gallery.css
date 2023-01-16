@@ -1,21 +1,39 @@
+
+/*moble*/
+
 #container{
     display: grid;
-    grid-template-columns:repeat(3, auto);
+    grid-template-columns:repeat(2, 50%);
     justify-content: stretch;
-    margin-bottom: 20%;
+    margin-bottom: 40%;
     text-align: justify;
      /*background-color:red;*/
 }
 
 .box_prod{
+    width: 40vw;
+    height: 60vw;
+    margin-top: 5vw; 
+    margin-left: 4vw;
+    margin-bottom: 50%;
     background-color: aqua;
-    width: 20vw;
-    height: 30vw;
-    margin-top: 5em; 
-    margin-left: 3em;
-    margin-bottom: 20%;
 }
 
-.sub_titulo{
-   text-align: center;
+.nome_prod{
+    background-color: rgb(4, 0, 255);
+    height: 10vw;
+    text-align: center;
+ 
 }
+
+.box_titulo{
+    background-color: red;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-top: 5vw; /*Referente ao Banner*/
+}
+.sub_titulo{
+    font-size: 1.6em;
+}
+/********/
