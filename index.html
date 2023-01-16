@@ -1,83 +1,61 @@
 <!DOCTYPE html>
 <html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Style/header.css">
-    <link rel="stylesheet" href="./Style/main.css">
-    <link rel="stylesheet" href="./Style/slideshow.css">
-    <title>No Caminho do Êxito</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./Style/header.css">
+        <link rel="stylesheet" href="./Style/slideshow.css">
+        <link rel="stylesheet" href="./Style/banner.css">
+        <title>No Caminho do Êxito</title>
+    </head>
 
-<body>
-            <header>
-            
-                <nav>
-                    <a class="logo" href="index.html">Êxito</a>
+    <body>
+                <header>
+                    <nav>
+                        <a class="logo" href="index.html">Êxito</a>
                         <div class="mobile_menu">                
                             <div class="line1"></div>
                             <div class="line2"></div>
                             <div class="line3"></div>
                         </div>
-                    
                         <ul class="nav_list">
-                            
                             <li>
                                 <a href="index.html">Inicio</a>
                             </li>
-                            
                             <li>
                                 <a href="jornal.html">Jornal</a>
                             </li>
-                            
                             <li>
                                 <a href="contato.html">Contato</a>
                             </li>
-                            
                             <li>
                                 <a href="sobre.html">Sobre nós</a>
                             </li>
                         </ul>
-                </nav>
-            </header>    
+                    </nav>
+                </header>    
 
-        <main>
-            <!--Slideshow-->
-            <div class="slideshow_container">
-                
-                <!--Imagens-->
-                <div class="myslides fade">
-                    <img src="/Projeto-E/img/ÊXITO.jpeg">
-                </div>
+                <main>
 
-                <div class="myslides fade">
-                    <img src="/Projeto-E/img/empresa1.jpeg">
-                </div>
+                    <div class="banner_area">
+                        <h2>Tentativa de Êxito</h2>
+                    </div>
+                    
+                    <div class="content_area">
+                        <div class="wrapper">
+                            <h2>Text Details</h2>
+                            <p>
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam explicabo nostrum, dicta nam sed libero ratione sit quod voluptas, doloremque enim cum eius expedita odit? Explicabo dicta doloribus vel nesciunt.
+                                <br><br>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quidem dolorum vel quos eligendi officiis alias tempora nisi blanditiis modi? Itaque voluptatum maxime, veniam tempora suscipit architecto mollitia eligendi. Nisi?
+                            </p>
+                        </div>
+                    </div>
 
-                <div class="myslides fade">
-                    <img src="/Projeto-E/img/empresa1.jpeg">
-                </div>
+                </main>
 
-                <!--Botão de ida e volta-->
-                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                <a class="next" onclick="plusSlides(1)">&#10095;</a>
-                
-                <!--Pontos/circulos-->
-                <div style="text-align:center">
-                    <span class="dot" onclick="currentslide(1)"></span>
-                    <span class="dot" onclick="currentslide(2)"></span>
-                    <span class="dot" onclick="currentslide(3)"></span>
-                </div>
-            
-            </div>
-              <br>
-
-            </div>
-            
-        </main>
-
-    <script src="./Scripts/nav.js"></script>
-    <script src="./Scripts/slide.js"></script>
-</body>
+        <script src="./Scripts/nav.js"></script>
+        <script src="./Scripts/slide.js"></script>
+    </body>
 </html>

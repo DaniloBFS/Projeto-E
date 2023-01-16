@@ -5,8 +5,9 @@
 /*slide*/
 .slideshow_container{
     max-width: auto;
-    max-height: 86vh;
+    max-height: 20vh;
     position: relative;
+    z-index: -1;
 }
 
 /*Esconde as imagens*/
@@ -54,9 +55,13 @@
     transition: 1.6 ease;
 }
 
-.active, .dot:hover{
-    background-color: #717171;
+.dots{
+    margin-top: 1.5vh;
 }
+
+/*.active, .dot:hover{
+    background-color: #717171;
+}*/
 
 /*Animação fade*/
 .fade{
@@ -70,7 +75,19 @@ img{
     position: relative;
 }
 
+
+
 @keyframes fade {
     from{opacity: .4}
     to{opacity: 1}
+}
+
+@media (max-width: 999px){
+
+    .slideshow_container{
+        height: 1000vh;
+    }
+
+
+
 }

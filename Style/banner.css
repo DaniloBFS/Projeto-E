@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.banner_area {
+    background-image: url(/Projeto-E/img/mobile_logo.jpeg);
+    background-size: cover;
+    background-position: center center;
+    top: 8vh;
+    height: 70vh;
+    width: 49vh;
+    position: fixed;
+}
+
+.banner_area:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: whitesmoke;
+    opacity: .3;
+    z-index: -1;
+}
+
+.banner_area h2{
+    padding-top: 8%;
+    font-size: 8vh;
+    color: #fff;
+    text-align: center;
+}
+
+.content_area{
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    background-color: #fff;
+    top: 60vh;
+}
+
+.content_area h2{
+    font-size: 4vh;
+    margin: 0;
+    padding-top: 3vh;
+    letter-spacing: 0.1vh;
+}
+
+.content_area p{
+    padding: 2% 0;
+    line-height: 3.5vh;
+    text-align: justify;
+}
