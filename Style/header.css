@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-header{
-    z-index: +1;
-}
-
 a {
     color: whitesmoke;
     text-decoration: none;
@@ -27,7 +23,6 @@ a:hover{
     color: black;
     display: flex;
     padding: 10vh;
-    display: inline-block;
     background-color: #003756;
     margin: 8%;
     border-radius: 1.0vh;
@@ -35,6 +30,8 @@ a:hover{
 }
 
 nav{
+    position: fixed;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -67,13 +64,23 @@ nav{
     transition: 0.3s;
 }
 
+header{
+    position: fixed;
+    z-index: +1;
+}
+
 /*mobile*/
 @media (max-width: 999px){
     body{
         overflow-x: hidden; /*tudo que transborda da tela é escondido*/
     }
+    .logo{
+        
+
+    }
+
     .nav_list{
-        position: absolute;
+        position: fixed;
         top: 8vh;
         right: 0;
         width: 50vw; /*representa largura*/
