@@ -14,9 +14,7 @@ a:hover{
 }
 
 .logo {
-    font-size: 3vh;
-    text-transform: uppercase;
-    letter-spacing: 0.4vh;
+    max-width: 15vh;
 }
 
 .conteudo{
