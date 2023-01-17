@@ -60,7 +60,7 @@ nav{
     width: 32px; 
     height: 2px;
     background-color: whitesmoke;
-    margin: 10px;
+    margin: 8.5px;
     transition: 0.3s;
 }
 
@@ -75,8 +75,14 @@ header{
         overflow-x: hidden; /*tudo que transborda da tela é escondido*/
     }
     .logo{
-        
+        position: absolute;
+        left: 3vh;
+    }
 
+    .mobile_menu{
+        display: block;
+        position: absolute;
+        right: 3vh;
     }
 
     .nav_list{
@@ -95,10 +101,6 @@ header{
     .nav_list li{
         margin-left: 0;
         opacity: 0;
-    }
-    .mobile_menu{
-        display: block;
-        position: inherit;
     }
 }
 
