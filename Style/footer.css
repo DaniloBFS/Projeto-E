@@ -55,6 +55,7 @@
 
     .partners{
         padding-top: 1vh;
+        padding-bottom: 1vh;
         text-align: center;
         color: white;
     }
@@ -62,7 +63,12 @@
     .brands{  
        display: grid;
        grid-template-columns: 1fr 1fr;
-       margin-left: 12%;  
+       margin-left: 12%;
+       margin-right: 10%;  
+    }
+
+    .brands_pic{
+        padding-left: 2.5vh;
     }
 
 }
