@@ -7,22 +7,62 @@
     position: relative;
     top: 80vh;
     width: 100%;
-    height: 50vh; 
-    background-color: black;
+    height: 100%; 
+    background-color: #003756;
     margin-bottom: 0;
 }
 
-.logo_footer{
+
+.partners{
+    text-align: center;
+    color: white;
+}
+
+.brands{
     position: relative;
-    max-width: 10vh;
-    left: 48%;
+    display: flex;  
+    justify-content: center;
+}
+
+.brands_pic{
+    margin: 0.5vh;
+    max-width: 12vh;
+}
+
+.logo_footer{
+        margin: 0 auto;
+        display: flex;
+        max-width: 10vh;
+        align-items: center;        
 }
 
 .copyright{
-    background-color: purple;
+    background-color: black;
     position: relative;
-    color: aliceblue;
-    padding: 2vh;
-    top: 80%;
-    text-align: center;
+    padding: 1vh;
+    bottom: 0vh;
+}
+
+@media (max-width: 999px){
+
+    .footer_general {
+        position: relative;
+        top: 80vh;
+        width: 100%;
+        height: 100%; 
+        background-color: #003756;
+    }
+
+    .partners{
+        padding-top: 1vh;
+        text-align: center;
+        color: white;
+    }
+
+    .brands{  
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       margin-left: 12%;  
+    }
+
 }
