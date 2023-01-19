@@ -83,5 +83,9 @@
     .brands_pic{
         padding-left: 2.5vh;
     }
-    
+
+    .social_media{
+        max-width: 15vh;
+    }
+
 }
