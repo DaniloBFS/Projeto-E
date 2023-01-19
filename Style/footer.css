@@ -43,6 +43,18 @@
     bottom: 0vh;
 }
 
+.social_media{
+    cursor: pointer;
+    margin: 0 auto;
+    max-width: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+.tiktok{
+    padding: 1vh;
+}
+
 @media (max-width: 999px){
 
     .footer_general {
@@ -54,6 +66,7 @@
     }
 
     .partners{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         padding-top: 1vh;
         padding-bottom: 1vh;
         text-align: center;
@@ -63,12 +76,12 @@
     .brands{  
        display: grid;
        grid-template-columns: 1fr 1fr;
-       margin-left: 12%;
+       margin-left: 14%;
        margin-right: 10%;  
     }
 
     .brands_pic{
         padding-left: 2.5vh;
     }
-
+    
 }
