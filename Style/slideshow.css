@@ -1,93 +1,36 @@
-*{
-    box-sizing: border-box;
+main{
+    align-items: center;
+    
 }
 
-/*slide*/
-.slideshow_container{
-    max-width: auto;
-    max-height: 20vh;
-    position: relative;
-    z-index: -1;
+.corousel_wrapp{
+    max-width: 120vh;
 }
 
-/*Esconde as imagens*/
-.myslides{
-    display: none;
-}
-
-/*Botão de ida e volta*/
-.prev, .next{
+.corousel_wrapp i{
+    height: 46px;
+    width: 46px;
     cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -2.2vh;
-    padding: 1.6vh;
-    color: white;
-    font-weight: bold;
-    font-size: 5vh;
-    transition: 0.6s ease;
-    border-radius: 0 0.3vh 0.3vh 0;
-    user-select: none;
-}
-
-/*Posiciona o botão "ida" à direita*/
-.next{
-    right: 0;
-    border-radius: 0.5vh 0 0 0.3vh;
-}
-
-/*Adiciona um hover*/
-.prev:hover, .next:hover{
-    background-color: rgba(0,0,0,0,8);
-}
-
-
-/*Os pontos, bullets e indicadores*/
-.dot{
-    cursor: pointer;
-    height: 1.5vh;
-    width: 1.5vh;
-    margin: 0 0.2vh;
-    background-color: #bbb;
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 46px;
+    background: #fff;
     border-radius: 50%;
-    display: inline-block;
-    transition: 1.6 ease;
 }
 
-.dots{
-    margin-top: 1.5vh;
+.corousel_wrapp .carousel{
+    font-size: 0px;
+    cursor: pointer;
+    white-space: nowrap;
 }
 
-/*.active, .dot:hover{
-    background-color: #717171;
-}*/
-
-/*Animação fade*/
-.fade{
-    animation-name: fade;
-    animation-duration: 2.5s;
+.carousel img{
+    height: 34vh;
+    object-fit: cover;
+    margin-left: 1.4vh;
+    width: calc(100% / 3);
 }
 
-img{    
-    max-width: 100%;
-    max-height: 100%;
-    position: relative;
-}
-
-
-
-@keyframes fade {
-    from{opacity: .4}
-    to{opacity: 1}
-}
-
-@media (max-width: 999px){
-
-    .slideshow_container{
-        height: 1000vh;
-    }
-
-
-
+.carousel img:first-child{
+    margin-left: 0px;
 }

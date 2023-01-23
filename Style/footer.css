@@ -16,12 +16,14 @@
 .partners{
     text-align: center;
     color: white;
+    padding: 2vh;
 }
 
 .brands{
     position: relative;
     display: flex;  
     justify-content: center;
+    padding: 1vh 2vh;
 }
 
 .brands_pic{
@@ -36,13 +38,6 @@
         align-items: center;        
 }
 
-.copyright{
-    background-color: black;
-    position: relative;
-    padding: 1vh;
-    bottom: 0vh;
-}
-
 .social_media{
     cursor: pointer;
     margin: 0 auto;
@@ -53,6 +48,19 @@
 
 .tiktok{
     padding: 1vh;
+}
+
+.copyright{
+    background-color: black;
+    position: relative;
+    padding: 1vh;
+    bottom: 0vh;
+}
+
+.copyright p{
+    color: white;
+    text-align: center;
+    padding: 0.5vh 0.5vh;
 }
 
 @media (max-width: 999px){
