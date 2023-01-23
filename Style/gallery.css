@@ -15,18 +15,18 @@
     width: 40vw;
     height: 60vw;
 
-    margin-top: 5vw; 
+    margin-top: 10vw; 
     margin-left: 4vw;
     margin-bottom: 50%;
    
-    border-width: 0.2em; 
+    border-width: 0.15em; 
     border-style: solid; 
     border-color:  black;
-    border-radius: 0.5em;
+    
 }
-.div_name_prod{
+.box_name_prod{
     width: 100%;
-    height: auot;
+    height: auto;
     margin-top: 20%;
    
 }
@@ -44,7 +44,8 @@
     word-break: break-word;
   
     font-size: 1.2em;
-    padding: 3vw;
+    padding: 1vw;
+    background-color: red;
     
 }
 .img_prod{
@@ -63,25 +64,3 @@
     font-size: 1.6em;
 }
 
-.box_btn{
-    display: flex;
-    
-    width: 100%;
-    height: auto;
-
-    margin-bottom: 15vw;
-}
-#btn_see_more{
-    margin: 0 auto;
-
-    width: 40vw;
-    height: 20vw;
-    
-    font-size: 1.2em;
-    padding: 3vw;
-
-    border-width: 0.2em; 
-    border-style: solid; 
-    border-color:  black;
-    border-radius: 0.5em;
-}
