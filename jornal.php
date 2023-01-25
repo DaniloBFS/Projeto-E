@@ -13,12 +13,11 @@
         <title>No Caminho do Êxito</title>
     </head>
 
-        <body>
+    <body>
         <?php include("menu.php");?>
-        
+                
+        <script src="./Scripts/slide.js"></script>
+        <script src="./Scripts/nav.js"></script>
 
-                </div>
-                <script src="./Scripts/slide.js"></script>
-                <script src="./Scripts/nav.js"></script>
     </body>
 </html>

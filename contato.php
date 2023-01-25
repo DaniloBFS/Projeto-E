@@ -13,10 +13,10 @@
     </head>
 
         <body>
-        <?php include("menu.php");?>
+            <?php include("menu.php");?>
         
-        <h1>Aqui o contato</h1>
+        
 
-        <script src="./Scripts/nav.js"></script>
+            <script src="./Scripts/nav.js"></script>
     </body>
 </html>

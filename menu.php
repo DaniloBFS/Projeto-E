@@ -1,6 +1,6 @@
-<header>
+    <header>
 
-    <nav>
+        <nav>
             <a class="logo" href="index.php"><img src="img/image.png"></a>
                 
                 <div class="mobile_menu">           
@@ -23,7 +23,7 @@
                         <a href="sobre.php">Sobre nós</a>
                     </li>
                 </ul>
-    </nav>
+        </nav>
 
-</header> 
+    </header> 
 

@@ -12,14 +12,14 @@
 }
 
 .footer_general img{
-        max-width: 100%;
-        max-height: 100%;
-        position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
 }
 
 .partners{
     text-align: center;
-    color: white;
+    color: black;
     padding: 2vh;
 }
 
@@ -72,7 +72,7 @@
     .footer_general {
         position: relative;
         top: 220vh;
-        width: 100%; 
+        max-width: 100%; 
         background-color: whitesmoke;
     }
 

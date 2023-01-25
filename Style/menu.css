@@ -4,7 +4,9 @@
 }
 
 header{
+    width: 100%;
     position: fixed;
+    z-index: +1;
 }
 
 header img{
@@ -30,7 +32,6 @@ a:hover{
 
 
 nav{
-    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -63,10 +64,6 @@ nav{
     transition: 0.3s;
 }
 
-header{
-    position: fixed;
-    z-index: +1;
-}
 
 /*mobile*/
 @media (max-width: 550px){
@@ -76,7 +73,7 @@ header{
     }
 
     header{
-        position: fixed;
+        width: 100%;
     }
     
     .logo{
