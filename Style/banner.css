@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(/Projeto-E/img/ÊXITO.jpeg);
+    background-image: url(../img/ÊXITO.jpeg);
     background-size: cover;
     background-position: center center;
     top: 8vh;
@@ -57,7 +57,7 @@ body{
 @media (max-width: 550px){
 
     body{
-        background-image: url(/Projeto-E/img/mobile_logo.jpeg);
+        background-image: url(../img/mobile_logo.jpeg);
         background-size: cover;
         background-position: center center;
         top: 8vh;
