@@ -4,18 +4,21 @@
     box-sizing: border-box;
 }
 
-body{
-    display: flex;
-    padding: 0 35px;
+.main_wrapp{
+    background: #fff;
+    position: absolute;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
-    background: #343F4F;
+    text-align: center;
+    margin-top: 80vh;
+   
 }
 
 .wrapper_carousel{
     max-width: 1200px;
     position: relative;
+    margin: 0 auto;
+    padding-top: 5vh;
 }
 
 .wrapper_carousel i{
