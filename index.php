@@ -15,8 +15,7 @@
     </head>
 
     <body>
-
-                <!--Header-->
+    <!--Header-->
     <?php include("menu.php");?>
                 
 
@@ -48,12 +47,12 @@
 
                         <a href="#" class="button">Saiba mais</a>
                         
-
                     </div>
                 </div>
             </section>
         </main>
-                    <!--Footer-->    
+
+    <!--Footer-->    
     <?php include("footer.php");?>
 
     <script src="https://kit.fontawesome.com/ca14b9e588.js" crossorigin="anonymous"></script>
