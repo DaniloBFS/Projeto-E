@@ -71,7 +71,7 @@
 
     .footer_general {
         position: relative;
-        top: 220vh;
+        top: 245vh;
         max-width: 100%; 
         background-color: whitesmoke;
     }
@@ -99,4 +99,11 @@
         max-width: 15vh;
     }
 
+    .mpb{
+        margin-left: 34%;
+    }
+
+    .mpb img{
+        width: 400vh;
+    }
 }

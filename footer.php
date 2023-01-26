@@ -5,11 +5,11 @@
         <div class="brands">
 
             <div class="brands_pic">
-                <img src="img/logos/babuxca_logo.webp">
+                <img src="img/logos/babuxca_logo.png">
             </div>
 
             <div class="brands_pic">
-                <img src="img/logos/bevbox_logo-removebg-preview.png">
+                <img src="img/logos/bevbox_logo.png">
             </div>
             
             <div class="brands_pic">
@@ -21,7 +21,7 @@
             </div>
 
             <div class="brands_pic">
-                <img src="img/logos/boby_logo.png">
+                <img src="img/logos/lindoia_premium_logo-removebg-preview.png">
             </div>
 
             <div class="brands_pic">
@@ -41,14 +41,18 @@
             </div>
 
             <div class="brands_pic">
-                <img src="img/logos/lindoia_premium_logo-removebg-preview.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/lindoya_logo-removebg-preview.png">
+                <img src="img/logos/boby_logo.png">
             </div>
 
         </div>
+
+        <h3 class="partners">Marcas próprias:</h3>
+
+            <div class="mpb">
+                <div class="brands_pic">
+                    <img src="img/logos/mpb_logo.png">
+                </div>
+            </div>
 
         <div class="social_media">
             <div class="instagram">
@@ -62,8 +66,7 @@
             <div class="linkedin">
                 <a href="https://www.linkedin.com/company/%C3%AAxito-ltda/?viewAsMember=true"><img src="img/social/linkedin.png"></a>
             </div>
-
-        </div>
+        </div>   
 
         <article class="copyright">
             <div class="logo_footer">

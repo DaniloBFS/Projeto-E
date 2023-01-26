@@ -8,9 +8,9 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/banner.css">
+        <link rel="stylesheet" href="Style/banner1.css">
         <link rel="stylesheet" href="Style/footer.css">
-        <link rel="stylesheet" href="Style/carousel.css">
+        <link rel="stylesheet" href="Style/caroseul.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -34,20 +34,21 @@
                                 <br><br>                                    
                                 Permita-me lhe apresentar um pouco dos nossos produtos:
                             </p>
-                                        <!--SLIDESHOW-->
+
+                        <!--SLIDESHOW-->
                         <div class="wrapper_carousel"> 
-                            
                             <i id="left" class="fa-solid fa-angle-left"></i>
-                            <div class="carousel">
-                                <img src="img/BevBox.png" alt="imagem" draggable="false">
-                                <img src="img/empresa1.jpeg" alt="imagem" draggable="false">
-                                <img src="img/BevBox.png" alt="imagem" draggable="false">
-                                <img src="img/BevBox.png" alt="imagem" draggable="false">
-                                <img src="img/BevBox.png" alt="imagem" draggable="false">
-                                <img src="img/BevBox.png" alt="imagem" draggable="false">
+                            <div class="carousel">                              
+                                <img src="img/exito_prodfoco/bev_limao_mobile.jpg" alt="imagem" draggable="false">
+                                <img src="img/exito_prodfoco/bev_lemonade_mobile.jpg" alt="imagem" draggable="false">
+                                <img src="img/exito_prodfoco/bev_guarana_mobile.jpeg" alt="imagem" draggable="false">
                             </div>
                             <i id="right" class="fa-solid fa-angle-right"></i>
-                        </div>   
+                        </div>
+
+                        <a href="#" class="button">Saiba mais</a>
+                        
+
                     </div>
                 </div>
             </section>
