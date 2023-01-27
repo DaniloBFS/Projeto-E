@@ -29,7 +29,9 @@
                             <p>
                                 Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
                                 <br><br>
-                                Em primeiro passo nessa jornada devo lhe dizer o que somos: um grupo que se consolida dentro do mercado corporativo como distribuidora de produtos e serviços, sempre atendendo com cuidado e proatividade e obtendo êxito em seus objetivos. Através de um contato rápido e sem burocracias que facilita a compra conosco. Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
+                                Em primeiro passo nessa jornada devo lhe dizer o que somos: um grupo que se consolida dentro do mercado corporativo como distribuidora de 
+                                produtos e serviços, sempre atendendo com cuidado e proatividade e obtendo êxito em seus objetivos. Através de um contato rápido e sem burocracias 
+                                que facilita a compra conosco. Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
                                 <br><br>                                    
                                 Permita-me lhe apresentar um pouco dos nossos produtos:
                             </p>
