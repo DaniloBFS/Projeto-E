@@ -5,7 +5,7 @@
 
 .footer_general {
     position: relative;
-    top: 175vh;
+    margin-top: 100%;
     width: 100%; 
     background-color: whitesmoke;
     margin-bottom: 0;
@@ -71,9 +71,9 @@
 
     .footer_general {
         position: relative;
-        top: 0;
         max-width: 100%; 
         background-color: whitesmoke;
+        margin-top: 0%;
     }
 
     .partners{
@@ -100,7 +100,7 @@
     }
 
     .mpb{
-        margin-left: 32%;
+        margin-left: 30%;
     }
 
     .mpb img{

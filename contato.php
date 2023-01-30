@@ -17,56 +17,53 @@
 
         <main class="principal">
 
-            <section class="container">
-                <div class="profile box"> 
-                    <img class="perfil" src="img/logos/babuxca_logo.png" alt="Vendedor">
-                    <h1 class="title">VendedorX</h1>
-                    <span>São Paulo - SP</span>
-                    <p>Promotor de Vendas</p>
-                    
-                    <ul class="redes_sociais">
-                        <li><a href=""><img class="icon" src="img/social/whatsapp.png" alt="WhatsApp"></a></li>
-                    </ul>
-                </div>
-                
-                <div class="profile box"> 
-                    <img class="perfil" src="img/logos/babuxca_logo.png" alt="Vendedor">
-                    <h1 class="title">VendedorX</h1>
-                    <span>São Paulo - SP</span>
-                    <p>Promotor de Vendas</p>
-                    
-                    <ul class="redes_sociais">
-                        <li><a href=""><img class="icon" src="img/social/whatsapp.png" alt="WhatsApp"></a></li>
-                    </ul>
-                </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                        
+                        <div class="our-team">
 
-                <div class="profile box"> 
-                    <img class="perfil" src="img/logos/babuxca_logo.png" alt="Vendedor">
-                    <h1 class="title">VendedorX</h1>
-                    <span>São Paulo - SP</span>
-                    <p>Promotor de Vendas</p>
-                    
-                    <ul class="redes_sociais">
-                        <li><a href=""><img class="icon" src="img/social/whatsapp.png" alt="WhatsApp"></a></li>
-                    </ul>
+                            <div class="picture">
+                                <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+                            </div>
+                                
+                            <div class="team-content">
+                                <h3 class="name">Justin Ramos</h3>
+                                <h4 class="title">Web Developer</h4>
+                            </div>
+
+                            <ul class="social">
+                                <li><a href="img/social/whatsapp.png" class="fa fa-facebook" aria-hidden="true"></a></li>
+                            </ul>
+
+                        </div>
+
+                        <div class="our-team">
+                            <div class="picture">
+                                <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+                            </div>
+                                
+                            <div class="team-content">
+                                <h3 class="name">Justin Ramos</h3>
+                                <h4 class="title">Web Developer</h4>
+                            </div>
+
+                            <ul class="social">
+                                <li><a href="https://codepen.io/collection/XdWJOQ/" class="fa fa-whatsapp" aria-hidden="true"></a></li>
+                            </ul>
+
+                        </div>
+
+
+                    </div>
                 </div>
-                
-                <div class="profile box"> 
-                    <img class="perfil" src="img/logos/babuxca_logo.png" alt="Vendedor">
-                    <h1 class="title">VendedorX</h1>
-                    <span>São Paulo - SP</span>
-                    <p>Promotor de Vendas</p>
-                    
-                    <ul class="redes_sociais">
-                        <li><a href=""><img class="icon" src="img/social/whatsapp.png" alt="WhatsApp"></a></li>
-                    </ul>
-                </div>
-                
-            </section>   
+            </div> 
+
+        <?php include("footer.php");?>
 
         </main>
 
-        <?php include("footer.php");?>
+        
             
         <script src="./Scripts/nav.js"></script>
 
