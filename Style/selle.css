@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #54677c;
+}
+
+body{
+  min-height: 100vh;
+  background-color: #e4e4e4;
+  justify-content: center;
+  align-items: center;
+}
+
+.principal{
+  width: 100%;
+
+}
+
+.card_wrapp{
+  height: 70vh;
+
+}
+
+.card{
+  position: relative;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  top: 10vh;
+  padding-bottom: 4vh;
+}
+
+.card_image{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.card_image img{
+  width: 100%;
+  transform: scale(1.2);
+}
+
+.name{
+  font-size: 1.4em;
+  color: #333;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+  margin-bottom: 8px;
+}
+
+p{
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.socials{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.socials a{
+  margin: 12px 8px;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: opacity 0.4s;
+  padding-top: 10.5px;
+  text-align: center;
+}
+
+a:hover{
+  opacity: 0.8;
+}
+
+a i {
+  color: #fff;
+  font-size: 1.4em;
+}
+
+a.whatsapp{
+  background-color: #075e54;
+}
+
+
+@media (max-width: 550px){
+
+  body{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card_wrapp{
+    padding-top: 5vh;
+  }
+
+}

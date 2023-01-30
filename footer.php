@@ -52,6 +52,11 @@
                 <div class="brands_pic">
                     <img src="img/logos/mpb_logo.png">
                 </div>
+
+                <div class="brands_pic">
+                    <img src="img/logos/fast_clean_logo.png">
+                </div>
+
             </div>
 
         <div class="social_media">
