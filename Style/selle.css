@@ -14,12 +14,12 @@ body{
 
 .principal{
   width: 100%;
-
 }
 
 .card_wrapp{
-  height: 70vh;
-
+  height: 12vh;
+  display: inline-block;
+  padding: 16px;
 }
 
 .card{
@@ -34,15 +34,26 @@ body{
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  top: 10vh;
   padding-bottom: 4vh;
+  padding-top: 4vh;
+  margin-bottom: 10vh;
 }
 
 .card_image{
-  width: 150px;
-  height: 150px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   overflow: hidden;
+}
+
+.card_image_exito{
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+}
+
+.card_image_exito img{
+  width: 100%;
 }
 
 .card_image img{
@@ -56,6 +67,7 @@ body{
   font-weight: bold;
   letter-spacing: 0.8px;
   margin-bottom: 8px;
+  margin-top: 8px;
 }
 
 p{
@@ -101,12 +113,15 @@ a.whatsapp{
 @media (max-width: 550px){
 
   body{
-    display: flex;
-    flex-wrap: wrap;
+
   }
 
   .card_wrapp{
-    padding-top: 5vh;
+    position: relative;
+    display: grid;
+    margin: 0 auto;
+    padding-top: 15vh;
+    height: 70vh;
   }
 
 }

@@ -5,10 +5,9 @@
 
 .footer_general {
     position: relative;
-    margin-top: 100%;
     width: 100%; 
     background-color: whitesmoke;
-    margin-bottom: 0;
+    margin-bottom: 0;   
 }
 
 .footer_general img{
@@ -20,7 +19,7 @@
 .partners{
     text-align: center;
     color: black;
-    padding: 2vh;
+    padding: 5vh;
 }
 
 .brands{
@@ -33,6 +32,14 @@
 .brands_pic{
     margin: 0.5vh;
     max-width: 12vh;
+}
+
+.own_brands{
+    text-align: center;
+}
+
+.own_brands img{
+    max-width: 130px;
 }
 
 .logo_footer{
@@ -48,6 +55,7 @@
     max-width: 15vh;
     display: flex;
     align-items: center;
+    padding-top: 2em;
 }
 
 .tiktok{
@@ -70,10 +78,8 @@
 @media (max-width: 550px){
 
     .footer_general {
-        position: relative;
         max-width: 100%; 
         background-color: whitesmoke;
-        margin-top: 0%;
     }
 
     .partners{
@@ -99,11 +105,4 @@
         max-width: 15vh;
     }
 
-    .mpb{
-        margin: 0 auto;
-    }
-
-    .mpb img{
-        width: 400vh;
-    }
 }

@@ -6,17 +6,23 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/foot.css">
+        <link rel="stylesheet" href="we.css">
         <title>No Caminho do Êxito</title>
     </head>
 
     <body>
-            
         <?php include("menu.php");?>
+        <main class="principal">
+            
 
+                <p>SObre nís</p>
+
+
+
+            
+        </main>
         <?php include("footer.php");?>
-
         <script src="./Scripts/nav.js"></script>
-    
     </body>
 </html>

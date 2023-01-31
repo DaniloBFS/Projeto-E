@@ -9,7 +9,7 @@
             </div>
 
             <div class="brands_pic">
-                <img src="img/logos/bevbox_logo.png">
+                <img src="img/logos/bev_box_logo.png">
             </div>
             
             <div class="brands_pic">
@@ -48,12 +48,13 @@
 
         <h3 class="partners">Marcas próprias:</h3>
 
-            <div class="mpb">
-                <div class="brands_pic">
+            <div class="own_brands">
+
+                <div class="own_brands_pic">
                     <img src="img/logos/mpb_logo.png">
                 </div>
 
-                <div class="brands_pic">
+                <div class="own_brands_pic">
                     <img src="img/logos/fast_clean_logo.png">
                 </div>
 
