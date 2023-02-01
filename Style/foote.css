@@ -6,8 +6,8 @@
 .footer_general {
     position: relative;
     width: 100%; 
-    background-color: whitesmoke;
-    margin-bottom: 0;   
+    background-color: whitesmoke;   
+    margin-top: 0%;
 }
 
 .footer_general img{
@@ -78,8 +78,7 @@
 @media (max-width: 550px){
 
     .footer_general {
-        max-width: 100%; 
-        background-color: whitesmoke;
+ 
     }
 
     .partners{

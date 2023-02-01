@@ -6,21 +6,28 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/foot.css">
-        <link rel="stylesheet" href="Style/selle.css">
+        <link rel="stylesheet" href="Style/foote.css">
+        <link rel="stylesheet" href="Style/seller.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <title>No Caminho do Êxito</title>
     </head>
 
     <body>
         
-        
+    <?php include("menu.php");?>
 
         <main class="principal">
 
-        <?php include("menu.php");?>
-           
-            <div class="card_wrapp">
+                <div class="card">
+                    <div class="card_image_exito">
+                        <img src="img/iconhead.png" alt="A Empresa"> 
+                    </div>
+                    <br><br>
+                   
+                    <p class="name">Contato Empresarial:</p>
+                    <p>11 46370929</p>   
+                </div> 
+        
                 <div class="card">
                     <div class="card_image">
                         <img src="img/hebert.png" alt="Vendedor"> 
@@ -76,22 +83,9 @@
                     <div class="socials">
                         <a href="https://api.whatsapp.com/send?phone=943645503&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
                     </div> 
-                </div>        
-
-                <div class="card">
-                    <div class="card_image_exito">
-                        <img src="img/iconhead.png" alt="A Empresa"> 
-                    </div>
-                    <br><br>
-                   
-                    <p class="name">Contato Empresarial:</p>
-                    <p>11 46370929</p>   
-            
-                </div>        
-            </div>  
-      
-
+                </div>              
         </main>
+        
         <?php include("footer.php");?>
                 
         <script src="./Scripts/nav.js"></script>

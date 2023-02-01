@@ -13,13 +13,10 @@ body{
 }
 
 .principal{
+  position: relative;
   width: 100%;
-}
-
-.card_wrapp{
-  height: 12vh;
-  display: inline-block;
-  padding: 16px;
+  height: 100%;
+  padding-top: 15vh;
 }
 
 .card{
@@ -112,16 +109,8 @@ a.whatsapp{
 
 @media (max-width: 550px){
 
-  body{
-
-  }
-
-  .card_wrapp{
-    position: relative;
-    display: grid;
-    margin: 0 auto;
-    padding-top: 15vh;
-    height: 70vh;
+  .principal{
+    height: 100%;
   }
 
 }

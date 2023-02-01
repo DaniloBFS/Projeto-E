@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/foot.css">
+        <link rel="stylesheet" href="Style/foote.css">
         <link rel="stylesheet" href="Style/new.css">
         <title>No Caminho do Êxito</title>
     </head>
