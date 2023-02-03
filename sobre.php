@@ -7,7 +7,7 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/foote.css">
-        <link rel="stylesheet" href="Style/us.css">
+        <link rel="stylesheet" href="Style/we.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -28,20 +28,28 @@
                 
                 <div class="enterprise">
                     <h3>A Empresa</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit assumenda quasi nulla tempora consequuntur!</p>
-                    <img src="img/empresa1.jpeg" alt="empresa">        
+                    <p>Com um total de 54 funcionarios atualmente, a empresa No Caminho do Êxito se consolida no mercado com a ideia de diminuir burocracias dentro da distribuição de produtos.</p>
+                    <img src="img/empresa1.jpeg" alt="empresa">  
+                    <p>Temos a filosofia de um ambiente de trabalho descontraido e livre para que o funcionario possa se sentir a vontade e tenha Êxito em suas missões diárias acompanhado de uma constante evolução.</p>      
+                </div>
+
+                <div class="ceo">
+                    <h2>O CEO</h2>
+                    <p>Responsavel pela criação e desenvolvimento da empresa. Sempre com determinação e constancia em seus objetivos. Atualmente mantém reuniões diárias que também são palestras para os funcionarios.</p>
+                    <img src="img/diogo.jpeg">
                 </div>
 
                 <div class="team">
+
                     <div class="team_head">
-                        <h3>Conheça nosso time</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae tempore debitis</p>
+                        <h3>Nosso Time</h3>
+                        <p>Conheça também nossos mais marcantes membros da Êxito</p>
                     </div>
 
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
                         <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <p>Supervisor de Análise e Desenvolvimento de Sistemas</p>
                     </div>
 
                     <div class="team_card">
