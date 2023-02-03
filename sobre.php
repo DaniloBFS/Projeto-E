@@ -14,16 +14,16 @@
     <body>
         <?php include("menu.php");?>
         
-        <main class="principal">
+        <main class="principal_about">
 
             <div class="content_wrapp">
-                <div class="content">           
-                    <h2>Bem vindo...</h2>
+                <div class="about">           
+                    <h2>Sobre a Êxito</h2>
                     <p>
                     Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
-                    Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.                                   
-                    Permita-me lhe apresentar um pouco dos nossos produtos:
+                    Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
                     </p>
+                    <img src="img/ÊXITO.jpeg">
                 </div>
                 
                 <div class="enterprise">
