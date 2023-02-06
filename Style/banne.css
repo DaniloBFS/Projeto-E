@@ -17,29 +17,30 @@ body{
 .banner{
     padding: 0 5vh 0vh 5vh;
     height: 160vh;
-    background-color: #fff;
+    background-color: whitesmoke;
 }
 
 .main_wrapp{
-    background: #fff;
+    background: whitesmoke;
     position: absolute;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: justify;
     margin-top: 80vh;
     width: 100%;
 }
 
 .content_wrapper{
-    width: 100%;
-    margin: 0 auto;
+    max-width: 100%;
+    padding-left: 9%;
+    padding-right: 9%;
+
 }
 
 .content_area{
     height: 110vh;
     position: relative;
-    background-color: #fff; 
-    text-align: center;
+    background-color: whitesmoke; 
     font-family: 'Poppins', sans-serif;
 }
 
@@ -67,6 +68,10 @@ body{
     border-radius: 2px;
 }
 
+.center_b{
+    text-align: center;
+}
+
 
 @media (max-width: 550px){
 
@@ -78,7 +83,12 @@ body{
 
     .content_area{
         position: relative; 
-        text-align: center;
+        text-align: justify;
+    }
+
+    .content_wrapper{
+        text-align: justify;
+        padding: 0;
     }
     
 }

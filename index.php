@@ -8,9 +8,9 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/banner.css">
-        <link rel="stylesheet" href="Style/foote.css">
-        <link rel="stylesheet" href="Style/caroseul.css">
+        <link rel="stylesheet" href="Style/banne.css">
+        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/caroseu.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -26,15 +26,16 @@
                     <div class="content_wrapper">
                                     
                         <h2>Bem vindo...</h2>
-                            <p>
-                                Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
-                                <br><br>
-                                Em primeiro passo nessa jornada devo lhe dizer o que somos: um grupo que se consolida dentro do mercado corporativo como distribuidora de 
-                                produtos e serviços, sempre atendendo com cuidado e proatividade e obtendo êxito em seus objetivos. Através de um contato rápido e sem burocracias 
-                                que facilita a compra conosco. Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
-                                <br><br>                                    
-                                Permita-me lhe apresentar um pouco dos nossos produtos:
-                            </p>
+                        <p>
+                            Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
+                            <br>
+                            Em primeiro passo nessa jornada devo lhe dizer o que somos: um grupo que se consolida dentro do mercado corporativo como distribuidora de 
+                            produtos e serviços, sempre atendendo com cuidado e proatividade e obtendo êxito em seus objetivos. Através de um contato rápido e sem burocracias 
+                            que facilita a compra conosco. Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
+                            <br><br>                                    
+                            Permita-me lhe apresentar um pouco dos nossos produtos:
+                        </p>
+                    </div>
 
                         <!--SLIDESHOW-->
                         <div class="wrapper_carousel"> 
@@ -46,18 +47,17 @@
                             </div>
                             <i id="right" class="fa-solid fa-angle-right"></i>
                         </div>
-
-                        <a href="#" class="button">Saiba mais</a>
                         
-                    </div>
+                        <div class="center_b">
+                            <a href="contato.php" class="button">Saiba mais</a>
+                        </div>
+                    
                 </div>
             </section>
 
             <?php include("footer.php");?>
 
         </main>
-
-    <!--Footer-->    
 
     <script src="https://kit.fontawesome.com/ca14b9e588.js" crossorigin="anonymous"></script>
     <script src="Scripts/carousel.js"></script>
