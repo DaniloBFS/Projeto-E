@@ -15,7 +15,7 @@ body{
   align-items: center;
 }
 
-.principal{
+.card_wrapp{
   position: relative;
   width: 100%;
   height: 100%;
@@ -27,7 +27,7 @@ body{
 
 .card{
   position: relative;
-  width: 540px;
+  width: 600px;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
@@ -113,21 +113,22 @@ a.whatsapp{
 }
 
 
-@media (max-width: 1000px){
+@media (max-width: 1200px){
 
-  .principal{
+  .card_wrapp{
     height: 100%;
   }
 
   .card{
-    width: 300px;
+    width: 400px;
     padding-left: 1em;
     padding-right: 1em;
   }
 }
 
-@media (max-width: 550px){
-  .principal{
+
+@media (max-width: 650px){
+  .card_wrapp{
     height: 100%;
     display: flex;
     flex-direction: column;

@@ -7,7 +7,7 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/footer.css">
-        <link rel="stylesheet" href="Style/selle.css">
+        <link rel="stylesheet" href="Style/vendedor.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <title>No Caminho do Êxito</title>
     </head>
@@ -17,7 +17,8 @@
     <?php include("menu.php");?>
 
         <main class="principal">
-
+            <div class="card_wrapp">
+                
                 <div class="card">
                     <div class="card_image_exito">
                         <img src="img/iconhead.png" alt="A Empresa"> 
@@ -83,7 +84,10 @@
                     <div class="socials">
                         <a href="https://api.whatsapp.com/send?phone=943645503&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
                     </div> 
-                </div>              
+                </div> 
+
+            </div>    
+                     
         </main>
         
         <?php include("footer.php");?>
@@ -92,3 +96,4 @@
 
     </body>
 </html>
+

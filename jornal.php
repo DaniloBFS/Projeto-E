@@ -7,80 +7,71 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/footer.css">
-        <link rel="stylesheet" href="Style/new.css">
+        <link rel="stylesheet" href="Style/jornal.css">
         <title>No Caminho do Êxito</title>
     </head>
 
     <body>
-
+    <?php include("menu.php");?>
     <main class="principal">
-       
-        <?php include("menu.php");?>
+      
+        <div class="journal">
+        
+            <div class="title">
+                <h3>Pelos Caminhos do Êxito... na Mooca</h3>
+            </div>
+            
+            <div class="comuncation">
+                <p>Comunicação Interna - Website Exclisivo // Edição 23001</p>
+            <div>
+            
+            <div class="first_new">
+                <div class="agro">
+                    <p>Nosso objetivo é disponibilizar gratuitamente contúdo de qualidade para nossos colaboradores, patrocinadores e população em geral, de forma resimida e dinâmica</p>
+                    <img src="img/jornal/agro.jpg">    
+                    <p>Agronegócio, a principal fonde de receita do PIB.</p>    
+                </div>
 
-            <div class="content">
-                <div class="collumns">
-                
-                    <div class="collumn">
-                        <div class="head">
-                            <span class="headline hl3">When darkness overspreads my eyes</span>
-                            <p><span class="headline hl4">by JOHANN WOLFGANG VON GOETHE</span></p>
-                        </div>
-                        When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream;
-                        <p>and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!</p>
-                    </div>
-                
-                    <div class="collumn">
-                        <div class="head">
-                            <span class="headline hl5">Give people courage</span>
-                            <p><span class="headline hl6">The crowd seemed to grow</span></p>
-                        </div>
-                        <p>The sunset faded to twilight before anything further happened.  The crowd far away on the left, towards Woking, seemed to grow, and I heard now a faint murmur from it.  The little knot of people towards Chobham dispersed.  There was scarcely an intimation of movement from the pit.</p>
-                        <figure class="figure">
-                            <img class="media" src="http://i.giphy.com/PW7MoTD2d9pJK.gif" alt="">
-                            <figcaption class="figcaption">Hermine hoping for courage.</figcaption>
-                        </figure>
-
-                        <p>It was this, as much as anything, that gave people courage, and I suppose the new arrivals from Woking also helped to restore confidence.  At any rate, as the dusk came on a slow, intermittent movement upon the sand pits began, a movement that seemed to gather force as the stillness of the evening about the cylinder remained unbroken.  Vertical black figures in twos and threes would advance, stop, watch, and advance again, spreading out as they did so in a thin irregular crescent that promised to enclose the pit in its attenuated horns.  I, too, on my side began to move towards the pit.</p>
-
-                        <p>Then I saw some cabmen and others had walked boldly into the sand pits, and heard the clatter of hoofs and the gride of wheels.  I saw a lad trundling off the barrow of apples.  And then, within thirty yards of the pit, advancing from the direction of Horsell, I noted a little black knot of men, the foremost of whom was waving a white flag.</p>
-
-                    </div>
-
-                    <div class="collumn">
-                        <div class="head">
-                            <span class="headline hl1">May the Force be with you</span>
-                            <p><span class="headline hl2">Let go your conscious self and act on instinct</span></p>
-                        </div>
-                        <p>Partially, but it also obeys your commands. Hey, Luke! May the Force be with you. I have traced the Rebel spies to her. Now she is my only link to finding their secret base.</p>
-                        <figure class="figure">
-                            <img class="media" src="http://i.giphy.com/4fDWVPMoSyhgc.gif" alt="">
-                            <figcaption class="figcaption">"This time, let go your conscious self and act on instinct."</figcaption>
-                        </figure>
-                            <p>Leave that to me. Send a distress signal, and inform the Senate that all on board were killed. <span class="citation">"Don't under&shy;estimate the Force. I suggest you try it again, Luke."</span> This time, let go your conscious self and act on instinct. In my experience, there is no such thing as luck. You're all clear, kid. Let's blow this thing and go home!</p>
-                            <p>You don't believe in the Force, do you? Partially, but it also obeys your commands. The plans you refer to will soon be back in our hands. As you wish.</p>
-                    </div>
-                        
-                    <div class="collumn">
-                        <div class="head">
-                            <span class="headline hl3">The buzz of the little world </span>
-                            <p><span class="headline hl4">A thousand unknown plants</span></p>
-                        </div>
-                        <p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath</p>
-                    </div>
-                   
-                    <div class="collumn">
-                        <div class="head">
-                            <span class="headline hl1">It wasn't a dream </span>
-                            <p><span class="headline hl4">by FRANZ KAFKA</span></p>
-                        </div>
-                        <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. </p>   
-                        <p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. </p>
-                    </div>
+                <div class="lateral_photo">
+                    <img src="img/jornal/arvore.jpg">
                 </div>
             </div>
 
-        <?php include("footer.php");?>
-    </main>   
+            <div class="second_new">
+                <div class="left">
+                    <p>Mooca é um tradicional distrito de classe média alta, situado no município de São Paulo. É um bairro históricamente caracterizado pela grande quantidade de imigrantes italianos, que predominam até hoje no bairro. Foi considerado o mais seguro de São Paulo por vários anos consecutivos.</p>
+                </div> 
+                    <img src="img/jornal/miller.jpeg">
+                <div class="right">
+                    <p>Na Várzea do Carmo, na Mooca, foi sede do primeiro jogo de futebol do Brasl. Foi em 1895 o jogo entre São Paulo Railwau e Companhia de Gás, os times eram formdos por ingleses que mkravam em São Paulo. Charles Miller, que havia trazido as primeiras bolas de futebol para o Brasil no ano anterior, jogou pelo São Paulo naquele dia, que venceu por 4 a 2.</p>
+                </div>
+            </div>
+
+            <div class="third_new">
+                
+                <div class="co1">
+                    <h5>Festas religiosas</h5>
+                    <img src="img/jornal/miller.jpeg">
+                    <p>Além da famosa Festa de San Genaro; no Museu do Imigrantes anualmente as Festas Tipicas de vários países, destacando Itália, Alemanha, Índia, entre outros. Muitas são as edificações históricas e pontos turísticos de interesse para visitação.</p>
+                </div>
+
+                <div class="co2">
+                    <p>MPB inspirada na Música Popular Brasileira e na renomada e premiada Asgard de Curitiba. uma cerveja artesanal premium de puro malte... De propriedade da marca e distribuidora Êxito, desta forma você encontrará nos melhores restaurantes e Bares da Mooca.</p>
+                    <img src="" alt="CEVA">
+                </div>
+
+                <div class="co3">
+                </div>
+
+            </div>
+
+
+
+
+        </div>
+        
+    </main>
+    <?php include("footer.php");?>   
     <script src="Scripts/nav.js"></script>
     </body>
 </html>

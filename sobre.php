@@ -7,7 +7,7 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/footer.css">
-        <link rel="stylesheet" href="Style/weu.css">
+        <link rel="stylesheet" href="Style/sobrenos.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -42,7 +42,7 @@
 
                 <div class="ceo">
                     <div class="alter">
-                        <h2>O CEO</h2>
+                        <h3>O CEO</h3>
                         <p>Responsavel pela criação e desenvolvimento da empresa. Sempre com determinação e constancia em seus objetivos. Atualmente mantém reuniões diárias que também são palestras para os funcionarios.</p>
                     </div>
                     <img src="img/diogo.jpeg">
