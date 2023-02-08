@@ -44,6 +44,18 @@
                 <img src="img/logos/boby_logo.png">
             </div>
 
+            <div class="brands_pic">
+                <img src="img/logos/brb.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/gelao.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/casarao.png">
+            </div>
+
         </div>
 
         <h3 class="partners">Marcas próprias:</h3>

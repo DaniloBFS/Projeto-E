@@ -34,7 +34,16 @@
 
 .brands_pic{
     margin: 0.5vh;
-    max-width: 12vh;
+    max-width: 14vh;
+    padding: 1em;
+}
+
+.brands_pic img{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .own_brands{

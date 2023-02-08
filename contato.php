@@ -26,7 +26,11 @@
                     <br><br>
                    
                     <p class="name">Contato Empresarial:</p>
-                    <p>11 46370929</p>   
+                    <p>11 46370929</p> 
+                    
+                    <div class="socials">
+                        <a href="https://api.whatsapp.com/send?phone=930858585&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
+                    </div>
                 </div> 
         
                 <div class="card">
