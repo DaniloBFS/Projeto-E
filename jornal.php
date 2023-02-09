@@ -7,7 +7,7 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/footer.css">
-        <link rel="stylesheet" href="Style/jornal.css">
+        <link rel="stylesheet" href="Style/jorna.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -57,10 +57,11 @@
 
                 <div class="co2">
                     <p>MPB inspirada na Música Popular Brasileira e na renomada e premiada Asgard de Curitiba. uma cerveja artesanal premium de puro malte... De propriedade da marca e distribuidora Êxito, desta forma você encontrará nos melhores restaurantes e Bares da Mooca.</p>
-                    <img src="" alt="CEVA">
+                    <img src="img/jornal/miller.jpeg" alt="CEVA">
                 </div>
 
                 <div class="co3">
+                    
                 </div>
 
             </div>
