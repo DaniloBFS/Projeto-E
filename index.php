@@ -49,7 +49,7 @@
                         </div>
                         
                         <div class="center_b">
-                            <a href="contato.php" class="button">Saiba mais</a>
+                            <a href="grid_prod.php" class="button">Saiba mais</a>
                         </div>
                     
                 </div>
