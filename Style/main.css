@@ -1,12 +1,101 @@
-#slogan{
-    margin-left: 10vh; 
-    margin-right: 10vh;
-    color:grey;
-    display: inline;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
-#perfil_exito{
-    margin-top: 1vh;
-    margin-left: 10vh;
-    display: inline-flex;
+body{
+    background-image: url(../img/ÊXITO.jpeg);
+    background-size: cover;
+    background-position: center center;
+    top: 8vh;
+    height: 80vh;
+}
+
+.banner{
+    padding: 0 5vh 0vh 5vh;
+    height: 160vh;
+    background-color: whitesmoke;
+}
+
+.main_wrapp{
+    background: whitesmoke;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-top: 80vh;
+    width: 100%;
+}
+
+.content_wrapper{
+    max-width: 100%;
+    padding-left: 9%;
+    padding-right: 9%;
+
+}
+
+.content_area{
+    height: 110vh;
+    position: relative;
+    background-color: whitesmoke; 
+    font-family: 'Poppins', sans-serif;
+}
+
+.content_area h2{
+    font-size: 4vh;
+    margin: 0;
+    padding-top: 3vh;
+    letter-spacing: 0.1vh;
+}
+
+.content_area p{
+    padding: 2% 0;
+    line-height: 3.5vh;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.center_b{
+    text-align: center;
+}
+
+
+@media (max-width: 1200px){
+    .content_wrapper{
+        padding: 0;
+    }
+}
+
+
+@media (max-width: 550px){
+
+    body{
+        background-image: url(../img/mobile_logo.jpeg);
+        
+    }
+
+
+    .content_area{
+        position: relative; 
+        text-align: justify;
+    }
+
+    .content_wrapper{
+        text-align: justify;
+        padding: 0;
+    }
+    
 }

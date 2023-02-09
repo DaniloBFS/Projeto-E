@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.principal{
+    height: 600vh;
+    padding-top: 8vh;
+}
+
+.principal .journal{
+    width: 70%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding-left: 4em;
+}
+
+.principal .journal .title{
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1vh;
+}
+
+.principal .journal .comunication p{
+    display: inline-block;
+}
+
+.principal .journal .first_new{
+    border-top: solid 2px;
+    max-width: 95%;
+    display: flex;
+}
+
+.principal .journal .first_new .agro{
+    padding-top: 1em;
+    max-width: 60%;
+    text-align: justify; 
+    border-right: solid 1px;
+    padding-right: 1em;
+}
+
+.principal .journal .first_new .lateral_photo img{
+    margin: 2em;
+    width: 20em;
+    height: 25em;
+}
+
+.principal .journal .second_new{
+    display: flex;
+    padding-top: 5vh;
+    padding-bottom: 2em;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    max-width: 95%;
+
+}
+
+.principal .journal .second_new img{
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.principal .journal .second_new p {
+    text-align: justify;
+}
+
+.principal .journal .third_new{
+    display: flex;
+}
+
+.principal .journal .third_new .co1{
+    max-width: 30%;
+    border-right: solid 1px;
+    padding-top: 2vh;
+    padding-right: 1%;
+}
+
+.principal .journal .third_new .co1 p{
+    text-align: justify;
+}
+
+.principal .journal .third_new .co2 {
+    display: flex;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 10em;
+    max-width: 80%;
+    border-bottom: solid 1px;
+}
+
+.principal .journal .third_new .co2 p{
+    text-align: justify;
+}
+
+.principal .journal .third_new .co2 img{
+    padding-left: 1em;
+    padding-right: 3em;
+}
+
