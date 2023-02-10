@@ -326,6 +326,7 @@
         </div>
     </div>
     <script src="Scripts/script_details_prod.js"></script>
+    <script src="Scripts/nav.js"></script>
     <?php
         include('footer.php');
     ?>
