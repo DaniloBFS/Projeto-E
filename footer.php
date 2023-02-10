@@ -28,7 +28,7 @@
                 <img src="img/logos/freegells_logo-removebg-preview.png">
             </div>
 
-            <div class="brands_pic" style="max-width: 10vh;">
+            <div class="brands_pic">
                 <img src="img/logos/gti_logo.png">
             </div>
 

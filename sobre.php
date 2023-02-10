@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/rodape.css">
         <link rel="stylesheet" href="Style/sobrenos.css">
         <title>No Caminho do Êxito</title>
     </head>
@@ -73,6 +73,11 @@
                         <p>CEO</p>
                     </div>
 
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Hebert Saravalle</span>
+                        <p>CEO</p>
+                    </div>
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
                         <span>Hebert Saravalle</span>

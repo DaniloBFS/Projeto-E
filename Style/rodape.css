@@ -8,7 +8,7 @@
 
 .footer_general {
     position: relative;
-    width: 100%; 
+    max-width: 100%; 
     background-color: rgb(228, 228, 228);   
     margin-top: 0%;
 }
@@ -33,22 +33,17 @@
 }
 
 .brands_pic{
-    margin: 0.5vh;
-    max-width: 14vh;
     padding: 1em;
+    
 }
 
 .brands_pic img{
-    
-    justify-content: center;
-    align-items: center;
-    justify-items: center;
-    text-align: center;
-    margin: 0 auto;
+    width: 5em;
 }
 
 .own_brands{
     text-align: center;
+    margin: 0 auto;
 }
 
 .own_brands img{
@@ -87,6 +82,19 @@
     text-align: center;
     padding: 0.5vh 0.5vh;
 }
+
+@media (max-width: 1000px){
+    
+    .brands{
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 1fr;  
+        text-align: center;
+        padding: 1vh 2vh;
+    }
+
+}
+
 
 @media (max-width: 550px){
 
