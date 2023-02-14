@@ -5,9 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/rodape.css">
-        <link rel="stylesheet" href="Style/sobrenos.css">
+        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/sobre2.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -120,8 +121,80 @@
                     </div>
                     
                 </div>  
-            </div>  
+
+    <div class="our_brands" id="partners">
+                        
+        <h3 class="partners">Nossos parceiros:</h3>
+
+        <div class="brands">
+
+            <div class="brands_pic">
+                <img src="img/logos/babuxca_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/bev_box_logo.png">
+            </div>
             
+            <div class="brands_pic">
+                <img src="img/logos/bioleve_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/agua_monteiro_logo-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/lindoia_premium_logo-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/freegells_logo-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/gti_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/haibrasil_logo-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/homemore-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/boby_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/brb.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/gelao.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/casarao.png">
+            </div>
+        </div>
+
+        <h3 class="partners">Marcas próprias:</h3>
+
+            <div class="own_brands">
+
+                <div class="own_brands_pic">
+                    <img src="img/logos/mpb_logo.png">
+                </div>
+
+                <div class="own_brands_pic">
+                    <img src="img/logos/fast_clean_logo.png">
+                </div>
+
+            </div>  
+    </div>  
         </main>
 
         <?php include("footer.php");?>

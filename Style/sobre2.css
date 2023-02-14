@@ -36,7 +36,7 @@
 }
 
 .content_wrapp .about img{
-    max-width: 40em;
+    max-width: 43em;
     border-radius: 4px;
 }
 
@@ -66,7 +66,7 @@
 }
 
 .enterprise img{
-    max-width: 38em;
+    max-width: 43em;
     border-radius: 4px;
 }
 
@@ -157,6 +157,36 @@
 span{
     font-weight: bold;
 }
+
+.our_brands{
+    max-width: 100%;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.our_brands h3{
+    text-align: center;
+}
+
+.our_brands .brands{
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.our_brands .brands .brands_pic img{
+    max-width: 5em;
+}
+
+.our_brands .own_brands {
+    padding: 1em;
+}
+
+.our_brands .own_brands .own_brands_pic img{
+    max-width: 8em;
+    padding-bottom: 1em;
+}
+
 
 @media (max-width: 1100px){
     .content_wrapp{

@@ -9,7 +9,7 @@
 .footer_general {
     position: relative;
     max-width: 100%; 
-    background-color: rgb(228, 228, 228);   
+    background-color: rgb(242, 242, 242);   
     margin-top: 0%;
 }
 
@@ -42,12 +42,15 @@
 }
 
 .own_brands{
-    text-align: center;
-    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
 }
 
 .own_brands img{
     max-width: 130px;
+    padding-bottom: 1em;
 }
 
 .logo_footer{
@@ -119,6 +122,14 @@
 
     .social_media{
         max-width: 15vh;
+    }
+
+    .own_brands{
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1em;
     }
 
 }
