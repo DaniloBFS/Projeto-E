@@ -5,12 +5,10 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
-    color: #54677c;
 }
 
 body{
   min-height: 100vh;
-  background-color: whitesmoke;
   justify-content: center;
   align-items: center;
 }
@@ -22,6 +20,10 @@ body{
   padding-top: 15vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
+}
+
+.principal{
+  background-color: whitesmoke;
 }
 
 
@@ -73,7 +75,7 @@ body{
   margin-top: 8px;
 }
 
-p{
+.card p{
   line-height: 24px;
   letter-spacing: 0.5px;
   margin-bottom: 12px;
@@ -103,7 +105,7 @@ a:hover{
   opacity: 0.8;
 }
 
-a i {
+.socials a i {
   color: #fff;
   font-size: 1.4em;
 }

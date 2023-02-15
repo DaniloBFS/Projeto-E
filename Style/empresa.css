@@ -7,7 +7,7 @@
 }
 
 .principal_about{
-    background: #fff;
+    background: whitesmoke;
     position: relative;
     width: 100%;
 }
@@ -175,7 +175,7 @@ span{
 }
 
 .our_brands .brands .brands_pic img{
-    max-width: 5em;
+    max-width: 10em;
 }
 
 .our_brands .own_brands {
@@ -259,14 +259,14 @@ span{
         padding-right: 16px;
         padding-left: 15px;
         position: relative;
-        display: flex;
-        flex-direction: column;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         line-height: 30px;
         text-align: justify;
     }
     
     .ceo img{
-        max-width: 100%;
+        width: 100%;
         border-radius: 4px;
         padding: 0;
     }
