@@ -123,7 +123,7 @@
                     </div>
                     
                 </div>  
-
+    <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
     <div class="our_brands">
                         
         <h3 class="partners">Nossos parceiros:</h3>

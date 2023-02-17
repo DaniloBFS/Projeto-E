@@ -25,9 +25,9 @@
                     <li>
                         <a href="sobre.php">Sobre nós</a>
                     </li>
-                    <li>
+                    <!--li>
                         <a href="login.php">Login</a>
-                    </li>
+                    </li-->
                 </ul>
         </nav>
 

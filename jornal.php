@@ -7,7 +7,7 @@
         <link rel="icon" type="image/x-icon" href="img/iconhead.png">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
-        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/rodape.css">
         <link rel="stylesheet" href="Style/jornales.css">
         <title>No Caminho do Êxito</title>
     </head>
