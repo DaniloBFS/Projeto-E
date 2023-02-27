@@ -70,7 +70,7 @@ form:hover [type="submit"]{
 .area_login .login a{
     color: #5568FE;
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 5px;
     cursor: pointer;
 }
 
@@ -78,6 +78,14 @@ form:hover [type="submit"]{
 @media (max-width: 550px){
     .area_login .login{
         max-width: 70%;
+    }
+
+    .area_login .login a{
+        margin-left: 5px;
+    }
+
+    .area_login .login a{
+        margin-left: 5px;
     }
 }
 

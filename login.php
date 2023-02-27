@@ -28,6 +28,7 @@
                 </div>
             </section> 
         </main>
+        <script src="./Scripts/nav.js"></script>
     <?php include("footer.php");?>
     </body>
 </html>
