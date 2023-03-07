@@ -5,79 +5,70 @@
 }
 
 .principal{
-    padding-top: 10vh;
-    background-color: white;
+    padding-top: 2vh;
+    background-color: whitesmoke;
+}
+
+h1, p{
+    text-align: center;
 }
 
 .principal .work_container{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 100px;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 5%;
 }
 
-.input {
-    display: grid;
-}
-
-.input h2{
-    position: relative;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.input h2:after{
-    content: '';
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transform: translateX(-50%);
-    height: 4px;
-    width: 50px;
-    border-radius: 2px;
-    background-color: #2ecc71;
-}
-
-
-.input input{
-    padding: 1em;
-    margin: 10px;
-    text-align: center;
-    border-radius: 4px;
-}
-
-.input textarea{
-    padding: 1em;
-    margin: 10px;
-    width: 32em;
-    height: 12em;
-    border-radius: 4px;
-}
-
-.principal .work_container .contact_box .input button{
-    width: 20em;
-    padding: 1em;
+form{
+    max-width: 500px;
     margin: 0 auto;
-    background-color: black;
-    border: none;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 4px;
-    cursor: pointer;
-    
-} 
+    padding: 20px 0;
+}
 
-.principal .work_container .contact_box .input button:hover{
-    opacity: 1;
-    background-color: darkgray;
-    transition: all 0.6s ease;
+input, textarea, label{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    color: black;
+}
+
+input, textarea{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px solid #828282;
+}
+
+input[type=submit]{
+    background-color: #545557;
+    padding: 15px 0;
+    color:white;
+    font-size: 18px;
+    border-bottom: none;
+    margin-top: 30px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+input[type=submit]:hover{
+    background: #FFF;
+    color: #1b1c1e;
+}
+
+input, textarea {
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    direction: none;
+}
+
+input:focus, textarea:focus{
+    outline: 1px solid #828282;
 }
 
 
+@media (max-width: 650px){
 
+    .principal{
+        padding-top: 6vh;
 
+}
