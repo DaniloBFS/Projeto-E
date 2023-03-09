@@ -1,0 +1,89 @@
+.principal{
+    background-color: whitesmoke;
+}
+
+.area_login{
+    position: relative;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.area_login .login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    width: 355px;
+    height: 320px;
+    padding: 35px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.area_login .login form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.area_login .login input{
+    margin-top: 10px;
+    background-color: black;
+    padding-left: 10px;
+    color: white;
+    border: none;
+    height: 45px;
+    outline: none;
+    border-radius: 8px;
+}
+
+.area_login .login img{
+    width: 65px;
+    height: auto;
+}
+
+.area_login .login input::placeholder{
+    color: white;
+    font-size: 14px; 
+} 
+
+form [type="submit"]{
+    display: block;
+    background-color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form:hover [type="submit"]{
+    color: grey;
+    transition: all 1s ease;
+}
+
+.area_login .login p{
+    color: black;
+}
+
+.area_login .login a{
+    color: #5568FE;
+    text-decoration: none;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 550px){
+    .area_login .login{
+        max-width: 70%;
+    }
+}
+
+
+
+
+
+
+

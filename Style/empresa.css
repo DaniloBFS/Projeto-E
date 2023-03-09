@@ -1,0 +1,427 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.principal_about{
+    background: whitesmoke;
+    position: relative;
+    width: 100%;
+}
+
+.content_wrapp{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.content_wrapp .about{
+    padding-top: 16vh;
+    position: relative;
+    background-color: whitesmoke;
+    padding-left: 4em; 
+    padding-right: 4em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+}
+
+.content_wrapp .about .alter{
+    max-width: 100%;
+    text-align: justify;
+    padding-right: 16px;
+}
+
+.content_wrapp .about img{
+    max-width: 43em;
+    border-radius: 4px;
+}
+
+.content_wrapp .about .alter h3{
+    text-align: justify;
+    font-size: 4vh;
+}
+
+.content_wrapp .about p{
+    padding: 2% 0;
+    line-height: 4.5vh;
+    
+}
+
+.enterprise{
+    padding-top: 3em;
+    position: relative;
+    background-color: whitesmoke;
+    padding-left: 4em; 
+    padding-right: 4em; 
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    justify-items: center;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.enterprise img{
+    max-width: 43em;
+    border-radius: 4px;
+}
+
+.enterprise .alter{
+    padding-left: 1.5em;
+ 
+    max-width: 100%;
+}
+
+.enterprise p{
+    padding-bottom: 20px;
+    line-height: 4.5vh;
+}
+
+.enterprise h3{
+    font-size: 4vh;
+    padding-bottom: 1em;
+}
+
+.ceo{
+    padding-top: 3em;
+    padding-bottom: 32px;
+    position: relative;
+    background-color: whitesmoke;
+    padding-left: 4em; 
+    padding-right: 4em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+}
+
+.ceo img{
+    width: 20em;
+    border-radius: 4px;
+    max-height: 25em;
+}
+
+.ceo h3{
+    font-size: 4vh;
+    padding-bottom: 1em;
+}
+
+.ceo p{
+    line-height: 4.5vh;
+    text-align: justify;
+}
+
+.team{
+    padding-bottom: 5em;
+    max-width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    line-height: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.team_card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+.team_card p{
+    max-width: 200px;
+}
+
+.team_card img{
+    max-width: 16em;
+    border-radius: 4px;
+}
+
+.team_head{
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    text-align: center;
+    background-color: whitesmoke;
+    display: grid;
+}
+
+.team_head p{
+    padding-bottom: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.our_brands{
+    max-width: 100%;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.our_brands h3{
+    text-align: center;
+}
+
+.our_brands .brands{
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.our_brands .brands .brands_pic img{
+    max-width: 10em;
+}
+
+.our_brands .own_brands {
+    padding: 1em;
+}
+
+.our_brands .own_brands .own_brands_pic img{
+    max-width: 8em;
+    padding-bottom: 1em;
+}
+
+
+@media (max-width: 1100px){
+    .content_wrapp{
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .content_wrapp .about{
+        padding: 0;
+        padding-top: 12vh;
+        padding-bottom: 1em;
+        padding-right: 1em;
+        padding-left: 1em;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .content_wrapp .about .img_exito img{
+        max-width: 100%;
+        border-radius: 4px;
+        padding: 0;
+    }
+    
+    .content_wrapp .about h2{
+        text-align: center;
+        font-size: 4vh;
+        margin: 0;
+        letter-spacing: 0.1vh;
+    }
+
+    .content_wrapp .about p{
+        line-height: 3.8vh;
+    }
+
+    .enterprise{
+        padding: 0;
+        padding-top: 5vh;
+        padding-bottom: 32px;
+        padding-right: 1em;
+        padding-left: 1em;
+        position: relative;
+        display: grid;
+        line-height: 30px;
+        text-align: justify;
+    }
+
+    .enterprise .alter{
+        padding: 0;
+    }
+    
+    .enterprise img{
+        max-width: 100%;
+        border-radius: 4px;
+        margin: 0 auto;
+    }
+    
+    .enterprise p{
+        padding-bottom: 20px;
+        line-height: 4.5vh;
+    }
+
+    .enterprise h3{
+        font-size: 3vh;
+    }
+    
+    .ceo{
+        padding-top: 5vh;
+        padding-bottom: 32px;
+        padding-right: 16px;
+        padding-left: 15px;
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        line-height: 30px;
+        text-align: justify;
+    }
+    
+    .ceo img{
+        width: 100%;
+        border-radius: 4px;
+        padding: 0;
+    }
+
+    .ceo p{
+        line-height: 4.5vh;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    .team{
+        padding-bottom: 32px;
+        padding-right: 16px;
+        padding-left: 15px;
+        position: relative; 
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        line-height: 30px;
+        text-align: justify;
+        
+    }
+
+    .team_head{
+        text-align: center;
+        padding-top: 5em;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    .team_card{
+        display: grid;
+        padding-top: 20px;
+        padding-bottom: 80px;
+        justify-items: center;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 550px){
+
+    .content_wrapp{
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .content_wrapp .about{
+        padding: 0;
+        padding-top: 12vh;
+        padding-bottom: 1em;
+        padding-right: 1em;
+        padding-left: 1em;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .content_wrapp .about .img_exito img{
+        max-width: 100%;
+        border-radius: 4px;
+        padding: 0;
+    }
+    
+    .content_wrapp .about h2{
+        text-align: center;
+        font-size: 4vh;
+        margin: 0;
+        letter-spacing: 0.1vh;
+    }
+
+    .content_wrapp .about p{
+        line-height: 3.8vh;
+    }
+
+    .enterprise{
+        padding: 0;
+        padding-top: 5vh;
+        padding-bottom: 32px;
+        padding-right: 1em;
+        padding-left: 1em;
+        position: relative;
+        display: grid;
+        line-height: 30px;
+        text-align: justify;
+    }
+
+    .enterprise .alter{
+        padding: 0;
+    }
+    
+    .enterprise img{
+        max-width: 100%;
+        border-radius: 4px;
+        margin: 0 auto;
+    }
+    
+    .enterprise p{
+        padding-bottom: 20px;
+        line-height: 4.5vh;
+    }
+
+    .enterprise h3{
+        font-size: 3vh;
+    }
+    
+    .ceo{
+        padding-top: 5vh;
+        padding-bottom: 32px;
+        padding-right: 16px;
+        padding-left: 15px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        line-height: 30px;
+        text-align: justify;
+    }
+    
+    .ceo img{
+        max-width: 100%;
+        border-radius: 4px;
+        padding: 0;
+        margin: 0 auto;
+    }
+
+    .ceo p{
+        line-height: 4.5vh;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    .team{
+        padding-bottom: 32px;
+        padding-right: 16px;
+        padding-left: 15px;
+        position: relative; 
+        display: flex;
+        flex-direction: column;
+        line-height: 30px;
+        text-align: justify;
+        
+    }
+
+    .team_head{
+        text-align: center;
+        padding-top: 5em;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    .team_card{
+        display: grid;
+        padding-top: 20px;
+        padding-bottom: 80px;
+        justify-items: center;
+        text-align: center;
+    }
+    
+}

@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/main.css">
-        <link rel="stylesheet" href="Style/footer.css">
+        <link rel="stylesheet" href="Style/rodape.css">
         <link rel="stylesheet" href="Style/caroseu.css">
         <title>No Caminho do Êxito</title>
     </head>
@@ -58,7 +58,7 @@
             <?php include("footer.php");?>
 
         </main>
-
+        
     <script src="https://kit.fontawesome.com/ca14b9e588.js" crossorigin="anonymous"></script>
     <script src="Scripts/carousel.js"></script>
     <script src="Scripts/nav.js"></script>

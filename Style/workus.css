@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.principal{
+    padding-top: 10vh;
+    background-color: white;
+}
+
+.principal .work_container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 100px;
+}
+
+.input {
+    display: grid;
+}
+
+.input h2{
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.input h2:after{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: #2ecc71;
+}
+
+
+.input input{
+    padding: 1em;
+    margin: 10px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.input textarea{
+    padding: 1em;
+    margin: 10px;
+    width: 32em;
+    height: 12em;
+    border-radius: 4px;
+}
+
+.principal .work_container .contact_box .input button{
+    width: 20em;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+} 
+
+.principal .work_container .contact_box .input button:hover{
+    opacity: 1;
+    background-color: darkgray;
+    transition: all 0.6s ease;
+}
+
+
+
+
