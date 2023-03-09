@@ -123,80 +123,21 @@
                     </div>
                     
                 </div>  
-    <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
-    <div class="our_brands">
+                     <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
+                    <div class="brands">
                         
-        <h3 class="partners">Nossos parceiros:</h3>
+                        <h3>Marcas Parceiras</h3>
 
-        <div class="brands">
-            
-            <div class="brands_pic">
-                <img src="img/logos/bioleve_logo.png">
-            </div>
-            
-            <div class="brands_pic">
-                <img src="img/logos/babuxca_logo.png">
-            </div>
+                        <img class="mudam1" src="img/marcas/marcasdeitadas.png">
+                        <img class="mudam2" src="img/marcas/marcasempe.png">
 
-            <div class="brands_pic">
-                <img src="img/logos/bev_box_logo.png">
-            </div>
+                        <h3>Marcas Proprias</h3>
 
-            <div class="brands_pic">
-                <img src="img/logos/agua_monteiro_logo-removebg-preview.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/lindoia_logo_copia.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/freegells_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/gti_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/haibrasil_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/home_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/boby_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/brb_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/gelao_logo.png">
-            </div>
-
-            <div class="brands_pic">
-                <img src="img/logos/casarao_logo.png">
-            </div>
-        </div>
-
-        <h3 class="partners">Marcas próprias:</h3>
-
-            <div class="own_brands">
-
-                <div class="own_brands_pic">
-                    <img src="img/logos/mpb_logo.png">
-                </div>
-
-                <div class="own_brands_pic">
-                    <img src="img/logos/fast_clean_logo.png">
-                </div>
-
+                        <img class="mudam3" src="img/marcas/marcasproprias.png">
+                        <img class="mudam4" src="img/marcas/marcaspropriasempe.png">
+                    </div>
             </div>  
-    </div>  
+  
         </main>
 
         <?php include("footer.php");?>

@@ -15,37 +15,29 @@
     <?php include("menu.php");?>
 
 
-
-
-
-
         <main class="principal">
             <div class="work_container"> 
                 <h1>Nos contate!</h1>
                 <p>Se sinta livre para nos mandar uma mensagen!</p>
                 
-                <form action="mail.php" method="POST">    
+                <form class="contact_form" action="#">    
                     <label for="nome">Seu nome: </label>
-                    <input type="text" name="nome" id="nome">
+                    <input class="nome" type="text" name="nome">
                     <label for="email">Seu email: </label>
-                    <input type="email" name="email" id="email">
+                    <input class="email" type="email" name="email">
                     <label for="assunto">Assunto: </label>
-                    <input type="text" name="assunto" id="assunto">
+                    <input class="assunto" type="text" name="assunto">
                     <label for="message">Mensagem: </label>
-                    <textarea name="message" cols="30" rows="10"></textarea>
-                    <input type="submit" onclick="emailFunc()" value="Enviar">
+                    <textarea class="message" name="message" cols="30" rows="10"></textarea>
+                    <input type="submit" value="Enviar">
                 </form>                    
                     
             </div>
         </main>
 
 
-
-
-
-
         <script src="https://smtpjs.com/v3/smtp.js"></script>
-    <script src="Scripts/email.js"></script>
+        <script src="Scripts/mail.js"></script>
     <?php include("footer.php");?>
     </body>
 

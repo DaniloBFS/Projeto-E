@@ -158,33 +158,29 @@ span{
     font-weight: bold;
 }
 
-.our_brands{
-    max-width: 100%;
-    background-color: whitesmoke;
+.principal_about .content_wrapp .brands {
+    background-color: white;
+}
+
+.principal_about .content_wrapp .brands img{
+    width: 100%;
+    height: 100%;
+    align-items: center;
     text-align: center;
 }
 
-.our_brands h3{
+.principal_about .content_wrapp .brands h3{
+    background-color: white;
     text-align: center;
-}
-
-.our_brands .brands{
     padding-top: 1em;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
 }
 
-.our_brands .brands .brands_pic img{
-    max-width: 10em;
+.principal_about .content_wrapp .brands .mudam2{
+    display: none;
 }
 
-.our_brands .own_brands {
-    padding: 1em;
-}
-
-.our_brands .own_brands .own_brands_pic img{
-    max-width: 8em;
-    padding-bottom: 1em;
+.principal_about .content_wrapp .brands .mudam4{
+    display: none;
 }
 
 
@@ -323,12 +319,19 @@ span{
         display: flex;
         flex-direction: column;
     }
+
+    .content_wrapp .about .alter{
+        max-width: 100%;
+        text-align: justify;
+        padding-right: 0;
+    }
     
     .content_wrapp .about .img_exito img{
         max-width: 100%;
         border-radius: 4px;
         padding: 0;
     }
+    
     
     .content_wrapp .about h2{
         text-align: center;
@@ -423,5 +426,27 @@ span{
         justify-items: center;
         text-align: center;
     }
+
+    .principal_about .content_wrapp .brands .mudam1{
+        display: none;
+    }
+
+    .principal_about .content_wrapp .brands .mudam2{
+        display: block;
+    }
+
+
+    .principal_about .content_wrapp .brands .mudam3{
+        display: none;
+    }
+
+    .principal_about .content_wrapp .brands .mudam4{
+        display: block;
+    }
+
+    .principal_about .content_wrapp .brands h3{
+        padding-bottom: 1em;
+    }
     
 }
+

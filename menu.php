@@ -1,14 +1,14 @@
     <header>
 
         <nav>
-            <a class="logo" href="index.php"><img src="img/image.png"></a>
+                <a class="logo" href="index.php"><img src="img/image.png"></a>    
                 
                 <div class="mobile_menu">           
                     <div class="line1"></div>
                     <div class="line2"></div>
                     <div class="line3"></div>
                 </div>
-                  
+
                 <ul class="nav_list">
                     <li>
                         <a href="index.php">Inicio</a>
@@ -29,7 +29,8 @@
                         <a href="login.php">Login</a>
                     </li-->
                 </ul>
-        </nav>
+
+            </nav>
 
     </header> 
 
