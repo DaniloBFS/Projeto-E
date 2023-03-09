@@ -48,7 +48,7 @@
                             Grande defensor da disciplica e dedicação, Diogo acredita que um bom ambiente de trabalho junto de um incentivo para os funcionários seja a chave para o sucesso.
                         </p>
                     </div>
-                    <img src="img/equipe/diogo.jpeg">
+                    <img src="img/equipe/diogo.png">
                 </div>
 
                 <div class="team_head">
