@@ -59,7 +59,7 @@
                 <div class="team">
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/marcelo.jpg" alt="pessoa">
                         <span>Hebert Saravalle</span>
                         <p>Supervisor de Análise e Desenvolvimento de Sistemas</p>
                     </div>
