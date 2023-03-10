@@ -20,7 +20,7 @@
                 <h1>Nos contate!</h1>
                 <p>Se sinta livre para nos mandar uma mensagen!</p>
                 
-                <form class="contact_form" action="#">    
+                <form class="contact_form" action="">    
                     <label for="nome">Seu nome: </label>
                     <input class="nome" type="text" name="nome">
                     <label for="email">Seu email: </label>

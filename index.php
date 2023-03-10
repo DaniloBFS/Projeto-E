@@ -42,7 +42,7 @@
                             <i id="left" class="fa-solid fa-angle-left"></i>
                             <div class="carousel">                              
                                 <img src="img/exito_prodfoco/bev_limao_mobile.jpg" alt="imagem" draggable="false">
-                                <img src="img/exito_prodfoco/goldkoleite.jpg" alt="imagem" draggable="false">
+                                <img src="img/exito_prodfoco/goldko.png" alt="imagem" draggable="false">
                                 ]<img src="img/exito_prodfoco/babuxca.jpg" alt="imagem" draggable="false">
                                 <img src="img/exito_prodfoco/bev_lemonade_mobile.jpg" alt="imagem" draggable="false">
                                 <img src="img/exito_prodfoco/bev_guarana_mobile.jpeg" alt="imagem" draggable="false">

@@ -1,3 +1,4 @@
+
 const form = document.querySelector('.contact_form');
 
 function sendMsg(e){
@@ -9,11 +10,16 @@ const nome = document.querySelector('.nome'),
       message = document.querySelector('.message');
 
       Email.send({
-        SecureToken : "4d772d0a-c30d-424d-b12f-47a76b66b70e",
+        SecureToken : "C973D7AD-F097-4B95-91F4-40ABC5567812",
         To : 'nocaminhodoexitoti@gmail.com',
         From : email.value,
         Subject : assunto.value,
-        Body : message.value
+        Body : message.value,
+        Attachments : [
+            {
+                name : "smtpjs.png",
+                path : "https://networkprogramming.files.wordpress.com/2017/11/smtpjs.png"
+            }]
         }).then(
         message => alert(message)
         );
