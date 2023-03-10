@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/rodape.css">
-        <link rel="stylesheet" href="Style/empresa.css">
+        <link rel="stylesheet" href="Style/sobre.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -59,69 +59,143 @@
                 <div class="team">
 
                     <div class="team_card">
-                        <img src="img/equipe/marcelo.jpg" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>Supervisor de Análise e Desenvolvimento de Sistemas</p>
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Duda</span>
+                        <p>C.F.O.</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Mariana</span>
+                        <p>C.H.R.O</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Edson</span>
+                        <p>Diretor Jurídico</p>
                     </div>
 
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
                         <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <p>Supervisor de Desenvolvedor de Sistemas</p>
                     </div>
 
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Danilo Borim</span>
+                        <p>Desenvolvedor de Sistemas</p>
                     </div>
 
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Karine Sousa</span>
+                        <p>Web Designer</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Wanderley</span>
+                        <p>C.O.O</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Francisco</span>
+                        <p>Gerente de Logistica</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Gerson</span>
+                        <p>Supervisor de Estoque</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Emanuel</span>
+                        <p>Assistente de Logística</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Vitor</span>
+                        <p>Supervisor de RH</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Gabriel Fonseca</span>
+                        <p>Supervisor de Qualidade</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p>CEO</p>
+                        <span>Gabriel Barros</span>
+                        <p id="partners">Supervisor de Qualidade</p>
                     </div>
+
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Hebert Saravalle</span>
-                        <p id="partners">CEO</p>
+                        <span>Carlos </span>
+                        <p id="partners">Supervisor de Qualidade</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Marcelo</span>
+                        <p id="partners">Gerente de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Sabrina</span>
+                        <p id="partners">Gerente de Vendas</p>
                     </div>
                     
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Gustavo Cortez</span>
+                        <p id="partners">Supervisor de Vendas</p>
+                    </div>
+                    
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Pedro Sofilio</span>
+                        <p id="partners">Supervisor de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Victória</span>
+                        <p id="partners">Supervisora de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Thais</span>
+                        <p id="partners">Supervisora de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Daniele</span>
+                        <p id="partners">Supervisora de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Pi</span>
+                        <p id="partners">Supervisora de Vendas</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Gabriela</span>
+                        <p id="partners">Gestora de Vendas</p>
+                    </div>
+
                 </div>  
                      <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
                     <div class="brands">
