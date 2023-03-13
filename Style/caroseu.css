@@ -82,14 +82,6 @@
 }
 
 @media (max-width: 550px){
-   
-    .carousel img{
-        max-width: 100%;
-    }    
-
-}
-
-@media (max-width: 550px){
 
     .carousel img{
         height: 310px;
