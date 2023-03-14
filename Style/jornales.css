@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .principal{
     width: 100%;
     padding-top: 12vh;
@@ -10,6 +11,34 @@
     margin: 0 auto;
     padding-top: 5vh;
     padding: 2em;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.principal{
+    width: 100%;
+    padding-top: 10vh;
+}
+
+.principal .journal{
+    width: 70%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding-left: 4em;
+}
+
+.wrapper_carousel{
+    max-width: 1200px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+>>>>>>> feature_grid_prod
 }
 
 .wrapper_carousel i{
@@ -18,7 +47,11 @@
     height: 46px;
     width: 46px;
     cursor: pointer;
+<<<<<<< HEAD
     position: fixed;
+=======
+    position: absolute;
+>>>>>>> feature_grid_prod
     font-size: 1.2rem;
     text-align: center;
     line-height: 46px;
@@ -28,12 +61,20 @@
 }
 
 .wrapper_carousel i:first-child{
+<<<<<<< HEAD
     left: 5%;
+=======
+    left: -23px;
+>>>>>>> feature_grid_prod
     display: none;
 }
 
 .wrapper_carousel i:last-child{
+<<<<<<< HEAD
     right: 5%;
+=======
+    right: -23px;
+>>>>>>> feature_grid_prod
 }
 
 .wrapper_carousel .carousel{
@@ -53,11 +94,16 @@
     pointer-events: none;
 }
 
+<<<<<<< HEAD
 .carousel{
     height: 180vh;
 }
 
 .carousel img{
+=======
+.carousel img{
+    height: 80vh;
+>>>>>>> feature_grid_prod
     object-fit: cover;
     margin-left: 14px;
     width: calc(100%);
@@ -72,6 +118,7 @@
 
 .carousel img:first-child{
     margin-left: 0px;
+<<<<<<< HEAD
 }
 
 .mobile_jornal{
@@ -86,10 +133,14 @@
 
 .comesbesques a{
     color: blue;
+=======
+
+>>>>>>> feature_grid_prod
 }
 
 
 @media (max-width: 750px){
+<<<<<<< HEAD
 
     .wrapper_carousel{
         display: none;
@@ -106,3 +157,30 @@
         display: none;
     }
 }
+=======
+    .carousel img{
+        width: calc(100% / 2);
+    }
+}
+
+@media (max-width: 550px){
+   
+    .principal{
+        padding: 2em;
+    }
+    .carousel img{
+        max-width: 100%;
+    }    
+
+}
+
+@media (max-width: 550px){
+
+    .carousel img{
+        height: 100%;
+        object-fit: cover;
+        margin-left: 14px;
+        width: calc(100%);
+    }    
+}
+>>>>>>> feature_grid_prod

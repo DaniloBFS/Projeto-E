@@ -5,6 +5,13 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+<<<<<<<< HEAD:Style/vendedo2.css
+========
+}
+
+h2{
+  text-align: center;
+>>>>>>>> feature_grid_prod:Style/vendedores.css
 }
 
 body{
@@ -12,6 +19,7 @@ body{
   justify-content: center;
   align-items: center;
 }
+
 
 .card_wrapp{
   position: relative;
@@ -24,12 +32,20 @@ body{
 
 .principal{
   background-color: whitesmoke;
+<<<<<<<< HEAD:Style/vendedo2.css
 }
 
+========
+  padding-top: 10%;
+}
+>>>>>>>> feature_grid_prod:Style/vendedores.css
 
+.contato{
+  padding-top: 5%;
+}
 .card{
   position: relative;
-  width: 600px;
+  width: 43vw;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -42,6 +58,10 @@ body{
   padding-bottom: 4vh;
   padding-top: 4vh;
   margin-bottom: 10vh;
+}
+
+.big_card{
+  width: 70vw;
 }
 
 .card_image{
@@ -65,6 +85,7 @@ body{
   width: 100%;
   transform: scale(1.2);
 }
+
 
 .name{
   font-size: 1.4em;
@@ -135,9 +156,7 @@ a.whatsapp{
     height: 100%;
     display: flex;
     flex-direction: column;
-
   }
-
   .card{
     width: 300px;
   }

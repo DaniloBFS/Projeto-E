@@ -8,7 +8,11 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/rodape.css">
+<<<<<<< HEAD
         <link rel="stylesheet" href="Style/sobre.css">
+=======
+        <link rel="stylesheet" href="Style/empresa.css">
+>>>>>>> feature_grid_prod
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -44,6 +48,7 @@
                 <div class="ceo">
                     <div class="alter">
                         <h3>O CEO</h3>
+<<<<<<< HEAD
                         <p>“Empresário… Diretor Comercial… Ninguém pergunta o seu cargo, mas sim sua profissão e a minha profissão eu escrevo com letra grande, com o maior orgulho, VENDEDOR”
 
                         <p>- Diogo Tomas Figueiredo</p>
@@ -51,6 +56,13 @@
                         <p>Responsável pela criação e desenvolvimento da empresa. Atualmente mantém reuniões diárias que também são palestras para a equipe. Grande defensor da disciplina, dedicação, determinação e constância em seus objetivos, Diogo acredita que um bom ambiente de trabalho junto de um incentivo para os funcionários seja a chave para o êxito.</p>
                     </div>
                     <img src="img/equipe/diogo.png">
+=======
+                        <p>Responsavel pela criação e desenvolvimento da empresa. Sempre com determinação e constancia em seus objetivos. Atualmente mantém reuniões diárias que também são palestras para os funcionarios.
+                            Grande defensor da disciplica e dedicação, Diogo acredita que um bom ambiente de trabalho junto de um incentivo para os funcionários seja a chave para o sucesso.
+                        </p>
+                    </div>
+                    <img src="img/equipe/diogo.jpeg">
+>>>>>>> feature_grid_prod
                 </div>
 
                 <div class="team_head">
@@ -149,6 +161,11 @@
                         <span>Sabrina</span>
                         <p>Gerente de Vendas</p>
                     </div>
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Hebert Saravalle</span>
+                        <p id="partners">CEO</p>
+                    </div>
                     
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
@@ -193,6 +210,7 @@
                     </div>
 
                 </div>  
+<<<<<<< HEAD
                      <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
                     <div class="brands">
                         
@@ -208,6 +226,82 @@
                     </div>
             </div>  
   
+=======
+    <!--ALTERAR IMAGENS APÓS FAZER O BACKEND-->
+    <div class="our_brands">
+                        
+        <h3 class="partners">Nossos parceiros:</h3>
+
+        <div class="brands">
+            
+            <div class="brands_pic">
+                <img src="img/logos/bioleve_logo.png">
+            </div>
+            
+            <div class="brands_pic">
+                <img src="img/logos/babuxca_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/bev_box_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/agua_monteiro_logo-removebg-preview.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/lindoia_logo_copia.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/freegells_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/gti_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/haibrasil_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/home_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/boby_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/brb_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/gelao_logo.png">
+            </div>
+
+            <div class="brands_pic">
+                <img src="img/logos/casarao_logo.png">
+            </div>
+        </div>
+
+        <h3 class="partners">Marcas próprias:</h3>
+
+            <div class="own_brands">
+
+                <div class="own_brands_pic">
+                    <img src="img/logos/mpb_logo.png">
+                </div>
+
+                <div class="own_brands_pic">
+                    <img src="img/logos/fast_clean_logo.png">
+                </div>
+
+            </div>  
+    </div>  
+>>>>>>> feature_grid_prod
         </main>
 
         <?php include("footer.php");?>

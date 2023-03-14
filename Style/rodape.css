@@ -5,7 +5,11 @@
 
 .footer{
     padding: 40px 0;
+<<<<<<< HEAD
     background-color: #FFFFFF;
+=======
+    background-color: #fff;
+>>>>>>> feature_grid_prod
 }
 
 .footer .social{

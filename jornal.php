@@ -14,6 +14,7 @@
 
     <body>
     <?php include("menu.php");?>
+<<<<<<< HEAD
     
         <main class="principal">
 
@@ -39,6 +40,24 @@
                     <a href="#comeback">Voltar para o topo da página</a>
                 </div>
         </main>
+=======
+    <main class="principal">
+
+                <div class="wrapper_carousel"> 
+                    <i id="left" class="fa-solid fa-angle-left"></i>
+                    <div class="carousel">                              
+                    <img src="img/jornal/pagina1" alt="imagem" draggable="false">
+                    <img src="img/jornal/pagina2" alt="imagem" draggable="false">
+                    <img src="img/jornal/pagina3" alt="imagem" draggable="false">
+                    <img src="img/jornal/pagina4" alt="imagem" draggable="false">
+                    </div>
+                    <i id="right" class="fa-solid fa-angle-right"></i>
+                </div>
+
+        </div>
+        
+    </main>
+>>>>>>> feature_grid_prod
     <?php include("footer.php");?>   
     <script src="https://kit.fontawesome.com/ca14b9e588.js" crossorigin="anonymous"></script>
     <script src="Scripts/nav.js"></script>
