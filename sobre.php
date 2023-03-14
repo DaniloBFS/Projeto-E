@@ -169,7 +169,7 @@
 
                     <div class="team_card">
                         <img src="img/hebert.png" alt="pessoa">
-                        <span>Victória</span>
+                        <span>Victória</span> 
                         <p>Supervisora de Vendas</p>
                     </div>
 
