@@ -79,11 +79,12 @@ img{
     overflow: hidden;
 }
 .item_img {
-    text-align: center;
     justify-content: center;
+    justify-items: center;
+    align-items: center;
     width: 3.5em;
     height: 12em;
-    margin: 16px auto;
+    margin: 10% auto;
 }
 .icon_list{
     position: absolute;
