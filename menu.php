@@ -1,7 +1,7 @@
     <header>
 
         <nav>
-                <a class="logo" href="index.php"><img src="img/image.png"></a>    
+            <a class="logo" href="index.php"><img src="img/logos/image.png"></a>
                 
                 <div class="mobile_menu">           
                     <div class="line1"></div>

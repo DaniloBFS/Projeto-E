@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
         <link rel="stylesheet" href="Style/menu.css">
         <link rel="stylesheet" href="Style/rodape.css">
-        <link rel="stylesheet" href="Style/sobre.css">
+        <link rel="stylesheet" href="Style/empresa.css">
         <title>No Caminho do Êxito</title>
     </head>
 
@@ -148,6 +148,11 @@
                         <img src="img/hebert.png" alt="pessoa">
                         <span>Sabrina</span>
                         <p>Gerente de Vendas</p>
+                    </div>
+                    <div class="team_card">
+                        <img src="img/hebert.png" alt="pessoa">
+                        <span>Hebert Saravalle</span>
+                        <p id="partners">CEO</p>
                     </div>
                     
                     <div class="team_card">
