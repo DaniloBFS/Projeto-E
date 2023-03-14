@@ -7,11 +7,16 @@
     box-sizing: border-box;
 }
 
+h2{
+  text-align: center;
+}
+
 body{
   min-height: 100vh;
   justify-content: center;
   align-items: center;
 }
+
 
 .card_wrapp{
   position: relative;
@@ -24,12 +29,15 @@ body{
 
 .principal{
   background-color: whitesmoke;
+  padding-top: 10%;
 }
 
-
+.contato{
+  padding-top: 5%;
+}
 .card{
   position: relative;
-  width: 600px;
+  width: 43vw;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -42,6 +50,10 @@ body{
   padding-bottom: 4vh;
   padding-top: 4vh;
   margin-bottom: 10vh;
+}
+
+.big_card{
+  width: 70vw;
 }
 
 .card_image{
@@ -65,6 +77,7 @@ body{
   width: 100%;
   transform: scale(1.2);
 }
+
 
 .name{
   font-size: 1.4em;
@@ -119,7 +132,6 @@ a.whatsapp{
 
   .card_wrapp{
     height: 100%;
-    width: 100%;
   }
 
   .card{
@@ -130,14 +142,12 @@ a.whatsapp{
 }
 
 
-@media (max-width: 900px){
+@media (max-width: 650px){
   .card_wrapp{
     height: 100%;
     display: flex;
     flex-direction: column;
-
   }
-
   .card{
     width: 300px;
   }

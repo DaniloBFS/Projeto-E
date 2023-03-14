@@ -9,7 +9,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 img{
-    width: 100%;
+    height: 100%;
     display: block;
 }
 .main_wrapper{
@@ -78,9 +78,13 @@ img{
     position: relative;
     overflow: hidden;
 }
-.item_img img{
-    width: 70%;
-    margin: 16px auto;
+.item_img {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    width: 3.5em;
+    height: 12em;
+    margin: 10% auto;
 }
 .icon_list{
     position: absolute;
