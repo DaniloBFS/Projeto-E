@@ -11,6 +11,7 @@ body{
 img{
     height: 100%;
     display: block;
+    position: relative;
 }
 .main_wrapper{
     background-color: whitesmoke; 
@@ -74,18 +75,27 @@ img{
     box-shadow: 0 0 20px 0 rgba(15, 4, 4, 0.044);
     transition: all 0.2s ease-out;
 }
+
 .item:hover{
     position: relative;
     overflow: hidden;
 }
+
 .item_img {
-    justify-content: center;
-    justify-items: center;
-    align-items: center;
     width: 3.5em;
     height: 12em;
+    margin-top: 10%;
+    margin-bottom: 10%;
     margin: 10% auto;
 }
+
+.item_img img{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
 .icon_list{
     position: absolute;
     bottom: -100px;
