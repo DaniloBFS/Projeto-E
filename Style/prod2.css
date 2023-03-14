@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    height: 100%;
+    display: block;
+}
+.main_wrapper{
+    background-color: whitesmoke; 
+    overflow-x: 0;
+    padding-bottom: 1em;
+    padding-top: 2em;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.main_title{
+    padding-top: 10em;
+    font-size: 0;
+    text-align: center;
+}
+.main_title h1{
+    padding: 16px 0 ;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+.display_style_btn{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: whitesmoke;
+    padding: 16px 0;
+    border-radius: 5px;
+}
+
+.display_style_btn button{
+    border: none;
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 8px;
+    background-color: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+.display_style_btn button:hover{
+    color: #f79410;
+}
+.active_btn{
+    color:  #f79410;
+}
+.item_list{
+    margin: 36px 0;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    row-gap: 32px;
+}
+.item{
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 20px 0 rgba(15, 4, 4, 0.044);
+    transition: all 0.2s ease-out;
+}
+.item:hover{
+    position: relative;
+    overflow: hidden;
+}
+.item_img {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    width: 3.5em;
+    height: 12em;
+    margin: 10% auto;
+}
+.icon_list{
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease-out;
+}
+.icon_list button{
+    border: none;
+    background-color: #202020;
+    color: #fff;
+    margin: 0 6px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+.icon_list button:hover{
+    background-color: #f4f4f4;
+    color: #202020;
+}
+.item_img:hover .icon_list{
+    bottom: 26px;
+}
+.item_detail{
+    padding: 16px;
+    color: #202020;
+    text-align:center;
+}
+.item_name{
+    font-weight: 500;
+    font-size: 18px;
+    color: #202020;
+    display: block;
+}
+.item_price{
+    margin: 10px 0;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.old_price{
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+.new_price{
+    color: #109e00;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.item_detail p{
+    font-weight: 300;
+    opacity: 0.9;
+    font-size: 15px;
+    line-height: 1.7;
+    display: none;
+}
+.add_btn{
+    margin: 16px 0;
+    text-transform: uppercase;
+    border: none;
+    background-color: #202020;
+    color: #fff;
+    font-family: inherit;
+    padding: 10px 2px;
+    border: 1px solid #202020;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+    display: none;
+}
+.add_btn:hover{
+    background-color: #fff;
+    color: #202020;
+
+}
+
+/* stykings for details active*/
+
+.details_active .item_list{
+    grid-template-columns: 100%;
+}
+.details_active .item{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+.details_active .item_detail{
+    text-align: left;
+}
+.details_active .item_price{
+    justify-content: flex-start;
+}
+.details_active .item_detail p{
+    display: block;
+}
+.details_active .item_detail .add_btn{
+    display: block;
+}
+
+
+@media screen and (min-width: 678px){
+    .item_list{
+        grid-template-columns: repeat(2, 1fr);
+        gap: 32px;
+    }
+}
+@media screen and (min-width: 768px){
+    .item_list{
+        grid-template-columns: repeat(3, 1fr);
+        gap: 32px;
+    }
+}
+@media screen and (max-width: 576px){
+    .details_active .item{
+        grid-template-columns: 100%;
+    }
+    
+}
