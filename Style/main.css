@@ -87,6 +87,9 @@ body{
         
     }
 
+    .banner{
+        height: 170vh;
+    }
 
     .content_area{
         position: relative; 

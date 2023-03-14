@@ -14,22 +14,31 @@
 
     <body>
     <?php include("menu.php");?>
-    <main class="principal">
+    
+        <main class="principal">
 
-                <div class="wrapper_carousel"> 
-                    <i id="left" class="fa-solid fa-angle-left"></i>
-                    <div class="carousel">                              
+            <div class="wrapper_carousel" id="comeback"> 
+                <i id="left" class="fa-solid fa-angle-left"></i>
+                
+                <div class="carousel">                              
                     <img src="img/jornal/pagina1" alt="imagem" draggable="false">
                     <img src="img/jornal/pagina2" alt="imagem" draggable="false">
                     <img src="img/jornal/pagina3" alt="imagem" draggable="false">
-                    <img src="img/jornal/pagina4" alt="imagem" draggable="false">
-                    </div>
-                    <i id="right" class="fa-solid fa-angle-right"></i>
+                    <img src="img/jornal/pagina4" alt="imagem" draggable="false">    
+                </div>
+                
+                <i id="right" class="fa-solid fa-angle-right"></i>
+            </div>
+
+                <div class="mobile_jornal">
+                    <h4>Acesse nosso jornal por um computador ou Tablet!</h4>
                 </div>
 
-        </div>
-        
-    </main>
+            </div>
+                <div class="comesbesques">
+                    <a href="#comeback">Voltar para o topo da página</a>
+                </div>
+        </main>
     <?php include("footer.php");?>   
     <script src="https://kit.fontawesome.com/ca14b9e588.js" crossorigin="anonymous"></script>
     <script src="Scripts/nav.js"></script>

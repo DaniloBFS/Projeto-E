@@ -119,6 +119,7 @@ a.whatsapp{
 
   .card_wrapp{
     height: 100%;
+    width: 100%;
   }
 
   .card{
@@ -129,7 +130,7 @@ a.whatsapp{
 }
 
 
-@media (max-width: 650px){
+@media (max-width: 900px){
   .card_wrapp{
     height: 100%;
     display: flex;

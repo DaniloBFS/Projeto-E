@@ -79,13 +79,13 @@
                         </div-->
                     </div>
                     <div class="item_detail">
-                        <a href="contato.php" class="item_name"> BevBox</a>
+                        <a href="contato.php" class="item_name"> Isqueiro</a>
                         <div class="item_price">
-                            <span class="new_price">R$ 00,00</span>
+                            <span class="new_price"> 99,00</span>
                             <span class="old_price">R$ 20,00</span>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Isqueiro para colocar fogo.
                         </p>
                         <button type="button" class="add_btn" href="contato.php">Adquira</button>
                     </div>
