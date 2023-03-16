@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style/menu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" 
+    integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/x-icon" href="img/logos/iconhead.png">
+    <link rel="stylesheet" href="Style/rodape.css">
+    <link rel="stylesheet" href="Style/teste.css">
+    <title>Produtos</title>
+</head>
+<body>
+<?php
+    include('menu.php');
+?>
+<main class="principal">
+    <div class="container">
+
+    <h1 class="heading">Produtos Êxito</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="img/prod_s_fundo/monteirolobato510.png" alt="">
+            <h3>Água Monteiro Lobato - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 1,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-mineral-com-gas-pet-510ml-monteiro-lobato-un-removebg-preview.png" alt="">
+            <h3>Água Monteiro Lobato com gás - 510ml</h3>
+            <p>Pacote com 12 unidadese.</p>
+            <span class="price">R$ 3,27 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/monteirosem.png" alt="">
+            <h3>Água Mineral Monteiro Lobato - 330ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 2,36 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/monteirocom.png" alt="">
+            <h3>Água Mineral Monteiro com gás - 330ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 2,36 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-monteiro-15.png" alt="">
+            <h3>Água Monteiro Lobato - 1,5L</h3>
+            <p>Pacote com 6 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-Monteiro-Lobato-6L.png" alt="">
+            <h3>Água Monteiro Lobato - 6L</h3>
+            <p>Uma galão com 6L.</p>
+            <span class="price">R$ 16,24 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-Monteiro-Lobato-copo-300ml-removebg-preview.png" alt="">
+            <h3>Água Monteiro Lobato copo</h3>
+            <p>Pacote com 48 Unidades.</p>
+            <span class="price">R$ 1,48 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-Premium-semgas-15L.png" alt="">
+            <h3>Água Premium sem gás - 1,5L</h3>
+            <p>Pacote com 6 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-Premium-sem-gas-500ml__2_-removebg-preview.png" alt="">
+            <h3>Água Premium sem gás - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 1,86 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/AGUA-PREMIUM-SEM-GAS-500ML-removebg-preview-removebg-preview.png" alt="">
+            <h3>Água Premium com gás - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 3,37 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/AGUA-PREMIUM-6L.png" alt="">
+            <h3>Agua Premium Lindoia - 6L</h3>
+            <p>Unidade de Galão com 6L.</p>
+            <span class="price">R$ 13,73 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/foto_product-removebg-preview.png" alt="">
+            <h3>Água Bioleve Rosa - 510ml</h3>
+            <p>Pacote de 12 unidades.</p>
+            <span class="price">R$ 2,98 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/agua-biosport-removebg-preview.png" alt="">
+            <h3>Água Bioleve Sport - 510ml</h3>
+            <p>Pacote de 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/aquissima-com-gas-310ml-removebg-preview.png" alt="">
+            <h3>Aquissima com gás - 310ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 3,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/aquissima-sem-gas-310ml-removebg-preview.png" alt="">
+            <h3>Aquissima sem gás - 310ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 3,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveLimao.jpg" alt="">
+            <h3>BioleveZero de Limão - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 5,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveMexerica.jpg" alt="">
+            <h3>BioleveZero de Mexerica - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 5,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveMacaVerde.jpg" alt="">
+            <h3>BioleveZero de Maçã Verde - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 5,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveLimoneto3.jpg" alt="">
+            <h3>BioleveZero de Limão Limão - 510ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 5,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioZeroLima.png" alt="">
+            <h3>BioleveZero de Limão - 1,5L</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 8,73 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveLimoneto.jpg" alt="">
+            <h3>BioleveZero de Limão Limão - 1,5L</h3>
+            <p>Pacote com 6 unidades.</p>
+            <span class="price">R$ 8,73 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveZeroMaca1.png" alt="">
+            <h3>BioleveZero de Maçã Verde - 1,5L</h3>
+            <p>Pacote com 6 unidades.</p>
+            <span class="price">R$ 8,73 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioleveZeroMexe1.png" alt="">
+            <h3>BioleveZero de Mexerica - 1,5L</h3>
+            <p>Pacote com 6 unidades.</p>
+            <span class="price">R$ 8,73 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Noport1800.png" alt="">
+            <h3>Palmito de Açai em Conserva 1,800g</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 87,24 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Noport300.png" alt="">
+            <h3>Palmito de Açai em Conserva 800g</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 44,99 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Noport500.png" alt="">
+            <h3>Palmito de Açai em Conserva 500g</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 29,93 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Vermont.png" alt="">
+            <h3>Vermont Ton Nat Pet - 310ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,86 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioFrutaCitrica.jpg" alt="">
+            <h3>Suco Bioleve de Frutas Citricas - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioLaranAce.webp" alt="">
+            <h3>Suco Bioleve de Laranja e Acerola - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioAbacaxi.webp" alt="">
+            <h3>Suco Bioleve de Abacaxi e Hortelã - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioGoiaba.jpg" alt="">
+            <h3>Suco Bioleve de Goiaba - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioUva.jpg" alt="">
+            <h3>Suco Bioleve de Uva - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioFrutaTropi.jpg" alt="">
+            <h3>Suco Bioleve de Frutas Tropicais - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioAcai.png" alt="">
+            <h3>Suco Bioleve de Açaí com Guaraná - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioLImoSuica.jpg" alt="">
+            <h3>Suco Bioleve de Limonada Suíça - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioCaju.png" alt="">
+            <h3>Suco Bioleve de Caju - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioMaracuja.jpg" alt="">
+            <h3>Suco Bioleve de Maracuja - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BioCaju.png" alt="">
+            <h3>Suco Bioleve de Caju - 390ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 6,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FruthyUva.png" alt="">
+            <h3>Suco Fruthy de Uva - 400ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FruthyLaranja.png" alt="">
+            <h3>Suco Fruthy de Laranja - 400ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FruthyLima.png" alt="">
+            <h3>Suco Fruthy de Limão - 400ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FruthyGoiaba.png" alt="">
+            <h3>Suco Fruthy de Goiaba - 400ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 4,61 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FruthyMaracuja.png" alt="">
+            <h3>Suco Fruthy de Maracuja - 400ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 8,91 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/EbicenCebola.webp" alt="">
+            <h3>Suco Fruthy de Maracuja - 400ml</h3>
+            <p>Pacote com 40 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/EbicenCamarao.jpg" alt="">
+            <h3>Ebicen de camarão - 30g</h3>
+            <p>Pacote com 40 unidades.</p>
+            <span class="price">R$ 4,61 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GlicoFrango.jpg" alt="">
+            <h3>Salgadinho Glico de frango - 40g</h3>
+            <p> Pacote com 40 unidades.</p>
+            <span class="price">R$ 4,47 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GlicoTomate.jpg" alt="">
+            <h3>Salgadinho Glico de tomate - 40g</h3>
+            <p>Pacote com 40 unidades.</p>
+            <span class="price">R$ 4,47 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GlicoQueijo.jpg" alt="">
+            <h3>Salgadinho Glico de Queijo - 40g</h3>
+            <p>Pacote com 40 unidades.</p>
+            <span class="price">R$ 4,47 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BatataBoby.png" alt="">
+            <h3>Batata Boby Ondulada - 25g</h3>
+            <p>Pacote com 32 unidades.</p>
+            <span class="price">R$ 3,36 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Baconboby.png" alt="">
+            <h3>Salgadinho Bacon Boby - 40g</h3>
+            <p>Pacote com 30 unidades.</p>
+            <span class="price">R$ 4,36 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/pipa.jpg" alt="">
+            <h3>Salgadinho Bacon Boby - 60g</h3>
+            <p>Pacote com 10 unidades.</p>
+            <span class="price">R$ 2,37 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/freegells.jpg" alt="">
+            <h3>Drops freegells</h3>
+            <p>Pacote com 12 unidades.</p>
+            <p> </p>
+            <span class="price">R$ 1,73 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+        
+        <div class="box">
+            <img src="img/prod_s_fundo/clicletfree.jpg" alt="">
+            <h3>Chiclet Freegells</h3>
+            <p>Pacote com 15 unidades.</p>
+            <span class="price">R$ 2,73 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+
+
+
+
+
+    </div>
+
+    </div>
+</main>
+<?php
+        include('footer.php');
+    ?>
+
+</body>
+</html>
