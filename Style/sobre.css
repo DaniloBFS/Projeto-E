@@ -47,7 +47,7 @@
 
 .content_wrapp .about p{
     padding: 2% 0;
-    line-height: 4.5vh;
+    line-height: 4.0vh;
     
 }
 
@@ -78,7 +78,7 @@
 
 .enterprise p{
     padding-bottom: 20px;
-    line-height: 4.5vh;
+    line-height: 4.0vh;
 }
 
 .enterprise h3{
@@ -111,7 +111,7 @@
 }
 
 .ceo p{
-    line-height: 4.5vh;
+    line-height: 4.0vh;
     text-align: justify;
 }
 

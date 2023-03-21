@@ -17,7 +17,7 @@
                         <a href="jornal.php">Jornal</a>
                     </li>
                     <li>
-                        <a href="grid_prod.php">Produtos</a>
+                        <a href="produtos.php">Produtos</a>
                     </li>
                     <li>
                         <a href="contato.php">Contato</a>

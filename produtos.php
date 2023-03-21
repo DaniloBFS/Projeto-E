@@ -9,8 +9,9 @@
     integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" 
     crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" type="image/x-icon" href="img/logos/iconhead.png">
+    <link rel="icon" type="image/x-icon" href="img/iconhead.png">
     <link rel="stylesheet" href="Style/rodape.css">
-    <link rel="stylesheet" href="Style/teste.css">
+    <link rel="stylesheet" href="Style/produtos.css">
     <title>Produtos</title>
 </head>
 <body>
@@ -485,7 +486,8 @@
 
         <div class="box">
             <img src="img/prod_s_fundo/freegells.jpg" alt="">
-            <h3>Drops freegells</h3>
+            <h3>Drops de bala Freegells</h3>
+            <br>
             <p>Pacote com 12 unidades.</p>
             <p> </p>
             <span class="price">R$ 1,73 a unidade</span>
@@ -495,23 +497,431 @@
         
         <div class="box">
             <img src="img/prod_s_fundo/clicletfree.jpg" alt="">
-            <h3>Chiclet Freegells</h3>
+            <h3>Chiclet de Freegells</h3>
             <p>Pacote com 15 unidades.</p>
             <span class="price">R$ 2,73 a unidade</span>
             <p class="old_price">R$ 9,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
+        <div class="box">
+            <img src="img/prod_s_fundo/Pacoca.png" alt="">
+            <h3>Paçoca Casarão</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,86 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
 
+        <div class="box">
+            <img src="img/prod_s_fundo/PingoLeite.png" alt="">
+            <h3>Pingo de leite</h3>
+            <p>Pote com 45 unidades.</p>
+            <span class="price">R$ 1,61 a unidade</span>
+            <p class="old_price">R$ 3,87 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
 
+        <div class="box">
+            <img src="img/prod_s_fundo/Bananinha.png" alt="">
+            <h3>Bananinha</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,86 a unidade</span>
+            <p class="old_price">R$ 6,20 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
 
+        <div class="box">
+            <img src="img/prod_s_fundo/cocada.png" alt="">
+            <h3>Cocada</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,86 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
 
+        <div class="box">
+            <img src="img/prod_s_fundo/Gibi.png" alt="">
+            <h3>Gibi Casarão</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,48 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Pemoca.png" alt="">
+            <h3>Pé de moça</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,86 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Goiabinha.png" alt="">
+            <h3>Goiabinha</h3>
+            <p>Pote com 20 unidades.</p>
+            <span class="price">R$ 2,86 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Mpb.png" alt="">
+            <h3>Cerveja MPB</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 14,99 a unidade</span>
+            <p class="old_price">R$ 19,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MpbLong.png" alt="">
+            <h3>MPB Long Neck</h3>
+            <p>Pacote com 24 unidades.</p>
+            <span class="price">R$ 11,23 a unidade</span>
+            <p class="old_price">R$ 19,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BabuxcaLima.png" alt="">
+            <h3>Babuxca de Limão</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 69,60 a unidade</span>
+            <p class="old_price">R$ 80,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BabuxcaTange.png" alt="">
+            <h3>Babuxca de Tangerina</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 69,60 a unidade</span>
+            <p class="old_price">R$ 80,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BabuxcaFrut.png" alt="">
+            <h3>Babuxca Frutas Vermelhas</h3>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 69,60 a unidade</span>
+            <p class="old_price">R$ 80,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Isqueiro.png" alt="">
+            <h3>Isqueiro GTI</h3>
+            <br>
+            <p>Pacote com 10 unidades.</p>
+            <span class="price">R$ 6,11 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <!--GOLDKO-->
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshCaixa.png" alt="">
+            <h3>MarshMellow GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades.</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshCaixaAmarga.png" alt="">
+            <h3>MarshMellow GoldKo 70%</h3>
+            <br>
+            <p>Caixa com 18 unidades.</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshCajuCanela.png" alt="">
+            <h3>Bombom Caju & Canela GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshCremeAvela.png" alt="">
+            <h3>Bombom Creme e Avelã GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshPastaAmendoim.png" alt="">
+            <h3>Bombom pasta de amendoim GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshRomeuJulieta.png" alt="">
+            <h3>Bombom romeu & julieta GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshCookieCream.png" alt="">
+            <h3>Bombom cookies & cream GoldKo.</h3>
+            <br>
+            <p>Caixa com 18 unidades</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshDoceLeite.png" alt="">
+            <h3>Bombom doce de leite GoldKo</h3>
+            <br>
+            <p>Caixa com 18 unidades.</p>
+            <span class="price">R$ 6,15 a unidade</span>
+            <p class="old_price">R$ 8,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Musa.png" alt="">
+            <h3>Musa Ao leite GoldKo</h3>
+            <br>
+            <br>
+            <p>Caixa com 1 unidade.</p>
+            <span class="price">R$ 12,43 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MusaAmarga.png" alt="">
+            <h3>Musa 70% Cacau GoldKo</h3>
+            <br>
+            <br>
+            <p>Caixa com 1 unidade.</p>
+            <span class="price">R$ 12,43 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldBranco20.png" alt="">
+            <h3>Barra Chocolate Branco GoldKo 20g</h3>
+            <p>Caixa com 10 unidade.</p>
+            <span class="price">R$ 8,65 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldBranco80.png" alt="">
+            <h3>Barra Chocolate Branco GoldKo 80g</h3>
+            <p>Caixa com 8 unidade.</p>
+            <span class="price">R$ 19,10 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldAmargo20.png" alt="">
+            <h3>Barra Chocolate 70% Cacau GoldKo 20g</h3>
+            <p>Caixa com 10 unidade.</p>
+            <span class="price">R$ 8,65 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldAmargo80.png" alt="">
+            <h3>Barra Chocolate 70% Cacau GoldKo 80g</h3>
+            <p>Caixa com 8 unidade.</p>
+            <span class="price">R$ 19,10 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldLeite20.png" alt="">
+            <h3>Barra Chocolate Ao leite GoldKo 20g</h3>
+            <p>Caixa com 10 unidade.</p>
+            <span class="price">R$ 8,65 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldLeite80.png" alt="">
+            <h3>Barra Chocolate ao leite GoldKo 80g</h3>
+            <p>Caixa com 8 unidade.</p>
+            <span class="price">R$ 19,10 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldVeg20.png" alt="">
+            <h3>Barra Chocolate ao leite de coco GoldKo 20g</h3>
+            <p>Caixa com 10 unidade.</p>
+            <span class="price">R$ 8,65 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GoldVeg80.png" alt="">
+            <h3>Barra Chocolate ao leite de coco  GoldKo 80g</h3>
+            <p>Caixa com 8 unidade.</p>
+            <span class="price">R$ 19,10 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/MarshPote.png" alt="">
+            <h3>Pote de Marshmellow</h3>
+            <br>
+            <p>Uma unidade.</p>
+            <span class="price">R$ 37,41 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BevBoxGengibre.png" alt="">
+            <h3>BevBox Pink Lemonade - 330ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 11,81 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BevBoxGuarana.png" alt="">
+            <h3>BevBox Guaraná com mate - 330ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 11,81 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/BevBoxLemonade.png" alt="">
+            <h3>BevBox Gingerbeer com limão - 330ml</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 11,81 a unidade</span>
+            <p class="old_price">R$ 15,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GelaoCoco.png" alt="">
+            <h3>Gelo Saborizado de coco</h3>
+            <p>Pacote com 20 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 5,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GelaoMaracuja.png" alt="">
+            <h3>Gelo Saborizado de Maracuja</h3>
+            <p>Pacote com 20 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 5,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GelaoMacaVerde.png" alt="">
+            <h3>Gelo Saborizado de maçã verde</h3>
+            <p>Pacote com 20 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 5,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/GelaoMorango.png" alt="">
+            <h3>Gelo Saborizado de morango</h3>
+            <p>Pacote com 20 unidades.</p>
+            <span class="price">R$ 3,11 a unidade</span>
+            <p class="old_price">R$ 5,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/FastClean.png" alt="">
+            <h3>Fast Clean Desengordurante</h3>
+            <p>Uma unidade - 5L.</p>
+            <span class="price">R$ 74,87 a unidade</span>
+            <p class="old_price">R$ 91,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Cortador.png" alt="">
+            <h3>Cortador de Unha em cartela</h3>
+            <p>Pacote com 12 Unidades.</p>
+            <span class="price">R$ 4,96 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/DuasEscovas.png" alt="">
+            <h3>Escova Dental Adulto Media</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 5,52 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Barbeador.png" alt="">
+            <h3>Barbeador 2 Lâminas</h3>
+            <br>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 6,05 a unidade</span>
+            <p class="old_price">R$ 7,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
+
+        <div class="box">
+            <img src="img/prod_s_fundo/Supercola.png" alt="">
+            <h3>Cola Instantânea</h3>
+            <p>Pacote com 12 unidades.</p>
+            <span class="price">R$ 3,98 a unidade</span>
+            <p class="old_price">R$ 9,90 a unidade</p>
+            <a href="contato.php" class="btn">Comprar</a>
+        </div>
 
     </div>
 
     </div>
 </main>
-<?php
+    <?php
         include('footer.php');
     ?>
 

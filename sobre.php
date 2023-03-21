@@ -23,7 +23,7 @@
                         <h3>Sobre a Êxito</h3>
                         <p>
                         Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
-                        Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
+                        Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios. 
                         </p>
                     </div>
 
