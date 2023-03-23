@@ -22,7 +22,7 @@ body{
   position: relative;
   width: 100%;
   height: 100%;
-  padding-top: 15vh;
+  padding-top: 10vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -52,8 +52,38 @@ body{
   margin-bottom: 10vh;
 }
 
+.sell_style{
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  padding: 2em;
+  margin-top: -5em;
+}
+
+.option{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .big_card{
-  width: 70vw;
+  width: 45vw;
+}
+
+.btn{
+    background-color: #003756;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 1em;
+}
+
+.choice{
+  text-align: center;
 }
 
 .card_image{
@@ -143,6 +173,11 @@ a.whatsapp{
 
 
 @media (max-width: 650px){
+  
+  .principal{
+    padding-top: 4em;
+  }
+
   .card_wrapp{
     height: 100%;
     display: flex;
@@ -150,5 +185,16 @@ a.whatsapp{
   }
   .card{
     width: 300px;
+  }
+
+  .sell_style{
+    max-width: 100%;
+    text-align: center;
+    margin-top: -0.5em;
+  }
+
+  .option{
+    display: flex;
+    flex-direction: column;
   }
 }

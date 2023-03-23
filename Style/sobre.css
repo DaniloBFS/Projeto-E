@@ -100,7 +100,7 @@
 }
 
 .ceo img{
-    width: 24em;
+    width: 22em;
     border-radius: 4px;
     max-height: 30em;
 }
@@ -138,9 +138,10 @@
 }
 
 .team_card img{
-    height:16em;
-    width: 16em;
+    height: 12em;
+    width: 10em;
     border-radius: 4px;
+    image-resolution: 300dpi; 
 }
 
 .team_head{

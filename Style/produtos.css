@@ -26,7 +26,7 @@
     padding-bottom: 15px;
     color:black ;
     text-shadow: 0 10px 10px rgba(0,0,0,.2);
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .container .box-container{
@@ -73,7 +73,7 @@
 .container .box-container .box .btn{
     margin-top: 10px;
     display: inline-block;
-    background:#333;
+    background:#003756;
     color:#fff;
     font-size: 17px;
     border-radius: 5px;
@@ -92,5 +92,9 @@
 @media (max-width:768px){
     .container{
         padding:20px;
+    }
+
+    .container .heading{
+        padding-top: 1em;
     }
 }

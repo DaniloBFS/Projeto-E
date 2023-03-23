@@ -21,7 +21,7 @@
 <main class="principal">
     <div class="container">
 
-    <h1 class="heading">Produtos Êxito</h1>
+    <h3 class="heading">PRODUTOS ÊXITO</h3>
 
     <div class="box-container">
 
@@ -57,7 +57,7 @@
             <h3>Água Mineral Monteiro com gás - 330ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 2,36 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 4,66 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -75,7 +75,7 @@
             <h3>Água Monteiro Lobato - 6L</h3>
             <p>Uma galão com 6L.</p>
             <span class="price">R$ 16,24 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 19,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -120,7 +120,7 @@
             <h3>Agua Premium Lindoia - 6L</h3>
             <p>Unidade de Galão com 6L.</p>
             <span class="price">R$ 13,73 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 17,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -138,7 +138,7 @@
             <h3>Água Bioleve Sport - 510ml</h3>
             <p>Pacote de 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -165,7 +165,7 @@
             <h3>BioleveZero de Limão - 510ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 5,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 8,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -174,7 +174,7 @@
             <h3>BioleveZero de Mexerica - 510ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 5,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 7,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -183,7 +183,7 @@
             <h3>BioleveZero de Maçã Verde - 510ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 5,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 9,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -192,7 +192,7 @@
             <h3>BioleveZero de Limão Limão - 510ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 5,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 6,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -201,7 +201,7 @@
             <h3>BioleveZero de Limão - 1,5L</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 8,73 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 10,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -210,7 +210,7 @@
             <h3>BioleveZero de Limão Limão - 1,5L</h3>
             <p>Pacote com 6 unidades.</p>
             <span class="price">R$ 8,73 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 14,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -219,7 +219,7 @@
             <h3>BioleveZero de Maçã Verde - 1,5L</h3>
             <p>Pacote com 6 unidades.</p>
             <span class="price">R$ 8,73 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 9,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -228,7 +228,7 @@
             <h3>BioleveZero de Mexerica - 1,5L</h3>
             <p>Pacote com 6 unidades.</p>
             <span class="price">R$ 8,73 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 9,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -237,7 +237,7 @@
             <h3>Palmito de Açai em Conserva 1,800g</h3>
             <p>Uma unidade.</p>
             <span class="price">R$ 87,24 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 99,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -246,7 +246,7 @@
             <h3>Palmito de Açai em Conserva 800g</h3>
             <p>Uma unidade.</p>
             <span class="price">R$ 44,99 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 54,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -255,7 +255,7 @@
             <h3>Palmito de Açai em Conserva 500g</h3>
             <p>Uma unidade.</p>
             <span class="price">R$ 29,93 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 64,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -264,7 +264,7 @@
             <h3>Vermont Ton Nat Pet - 310ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,86 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 6,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -273,7 +273,7 @@
             <h3>Suco Bioleve de Frutas Citricas - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 9,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -282,7 +282,7 @@
             <h3>Suco Bioleve de Laranja e Acerola - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 8,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -291,7 +291,7 @@
             <h3>Suco Bioleve de Abacaxi e Hortelã - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -300,7 +300,7 @@
             <h3>Suco Bioleve de Goiaba - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 7,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -309,7 +309,7 @@
             <h3>Suco Bioleve de Uva - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -318,7 +318,7 @@
             <h3>Suco Bioleve de Frutas Tropicais - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 7,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -327,7 +327,7 @@
             <h3>Suco Bioleve de Açaí com Guaraná - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 6,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -336,7 +336,7 @@
             <h3>Suco Bioleve de Limonada Suíça - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -345,7 +345,7 @@
             <h3>Suco Bioleve de Caju - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -354,7 +354,7 @@
             <h3>Suco Bioleve de Maracuja - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 9,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -363,7 +363,7 @@
             <h3>Suco Bioleve de Caju - 390ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 6,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -372,7 +372,7 @@
             <h3>Suco Fruthy de Uva - 400ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 5,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -381,7 +381,7 @@
             <h3>Suco Fruthy de Laranja - 400ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 6,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -390,7 +390,7 @@
             <h3>Suco Fruthy de Limão - 400ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 7,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -399,7 +399,7 @@
             <h3>Suco Fruthy de Goiaba - 400ml</h3>
             <p>Pacote com 12 unidades.</p>
             <span class="price">R$ 4,61 a unidade</span>
-            <p class="old_price">R$ 4,61 a unidade</p>
+            <p class="old_price">R$ 8,61 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -491,7 +491,7 @@
             <p>Pacote com 12 unidades.</p>
             <p> </p>
             <span class="price">R$ 1,73 a unidade</span>
-            <p class="old_price">R$ 9,90 a unidade</p>
+            <p class="old_price">R$ 2,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
         
@@ -500,7 +500,7 @@
             <h3>Chiclet de Freegells</h3>
             <p>Pacote com 15 unidades.</p>
             <span class="price">R$ 2,73 a unidade</span>
-            <p class="old_price">R$ 9,90 a unidade</p>
+            <p class="old_price">R$ 2,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -509,7 +509,7 @@
             <h3>Paçoca Casarão</h3>
             <p>Pote com 20 unidades.</p>
             <span class="price">R$ 2,86 a unidade</span>
-            <p class="old_price">R$ 9,90 a unidade</p>
+            <p class="old_price">R$ 2,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -527,7 +527,7 @@
             <h3>Bananinha</h3>
             <p>Pote com 20 unidades.</p>
             <span class="price">R$ 2,86 a unidade</span>
-            <p class="old_price">R$ 6,20 a unidade</p>
+            <p class="old_price">R$ 3,20 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -536,7 +536,7 @@
             <h3>Cocada</h3>
             <p>Pote com 20 unidades.</p>
             <span class="price">R$ 2,86 a unidade</span>
-            <p class="old_price">R$ 9,90 a unidade</p>
+            <p class="old_price">R$ 5,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -740,7 +740,7 @@
             <h3>Barra Chocolate Branco GoldKo 80g</h3>
             <p>Caixa com 8 unidade.</p>
             <span class="price">R$ 19,10 a unidade</span>
-            <p class="old_price">R$ 15,90 a unidade</p>
+            <p class="old_price">R$ 25,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -758,7 +758,7 @@
             <h3>Barra Chocolate 70% Cacau GoldKo 80g</h3>
             <p>Caixa com 8 unidade.</p>
             <span class="price">R$ 19,10 a unidade</span>
-            <p class="old_price">R$ 15,90 a unidade</p>
+            <p class="old_price">R$ 25,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -776,7 +776,7 @@
             <h3>Barra Chocolate ao leite GoldKo 80g</h3>
             <p>Caixa com 8 unidade.</p>
             <span class="price">R$ 19,10 a unidade</span>
-            <p class="old_price">R$ 15,90 a unidade</p>
+            <p class="old_price">R$ 35,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -794,7 +794,7 @@
             <h3>Barra Chocolate ao leite de coco  GoldKo 80g</h3>
             <p>Caixa com 8 unidade.</p>
             <span class="price">R$ 19,10 a unidade</span>
-            <p class="old_price">R$ 15,90 a unidade</p>
+            <p class="old_price">R$ 20,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -804,7 +804,7 @@
             <br>
             <p>Uma unidade.</p>
             <span class="price">R$ 37,41 a unidade</span>
-            <p class="old_price">R$ 15,90 a unidade</p>
+            <p class="old_price">R$ 45,90 a unidade</p>
             <a href="contato.php" class="btn">Comprar</a>
         </div>
 
@@ -924,6 +924,7 @@
     <?php
         include('footer.php');
     ?>
+    <script src="./Scripts/nav.js"></script>
 
 </body>
 </html>
