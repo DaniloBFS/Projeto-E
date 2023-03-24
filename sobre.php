@@ -23,7 +23,7 @@
                         <h3>Sobre a Êxito</h3>
                         <p>
                         Deixe-me nos apresentar primeiro e te levar nesse caminho de Êxito. Haha! É apenas um trocadilho que temos. 
-                        Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios.
+                        Temos a missão de distribuir com valores acessíveis para pequenos, médios e grandes comércios. 
                         </p>
                     </div>
 
@@ -61,91 +61,97 @@
                 <div class="team">
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
-                        <span>Duda</span>
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
+                        <span>Eduarda Almeida</span>
                         <p>C.F.O.</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Mariana</span>
                         <p>C.H.R.O</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/vovo.jpg" alt="pessoa">
+                        <span>Debora Brasil</span>
+                        <p>Supervisora de cobrança</p>
+                    </div>
+
+                    <div class="team_card">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Edson</span>
                         <p>Diretor Jurídico</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Hebert Saravalle</span>
                         <p>Supervisor de Desenvolvedor de Sistemas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/Danilo.jpg" alt="pessoa">
                         <span>Danilo Borim</span>
                         <p>Desenvolvedor de Sistemas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Karine Sousa</span>
                         <p>Web Designer</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Wanderley</span>
                         <p>C.O.O</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Francisco</span>
                         <p>Gerente de Logistica</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Gerson</span>
                         <p>Supervisor de Estoque</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Emanuel</span>
                         <p>Assistente de Logística</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Gabriel Fonseca</span>
                         <p>Supervisor de Qualidade</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Gabriel Barros</span>
                         <p>Supervisor de Qualidade</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Carlos </span>
                         <p>Supervisor de Qualidade</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/marcelo.jpg" alt="pessoa">
                         <span>Marcelo</span>
                         <p>Gerente de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Sabrina</span>
                         <p>Gerente de Vendas</p>
                     </div>
@@ -156,45 +162,51 @@
                     </div>
                     
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/GustavoCortez.png" alt="pessoa">
                         <span>Gustavo Cortez</span>
                         <p>Supervisor de Vendas</p>
                     </div>
                     
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Pedro Sofilio</span>
                         <p>Supervisor de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
-                        <span>Victória</span> 
+                        <img src="img/equipe/victoria.jpg" alt="pessoa">
+                        <span>Victória</span>  
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/thais.jpg" alt="pessoa">
                         <span>Thais</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/Daniele.jpg" alt="pessoa">
                         <span>Daniele</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/pi.jpg" alt="pessoa">
                         <span>Pi</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/hebert.png" alt="pessoa">
+                        <img src="img/equipe/Gabriela.jpg" alt="pessoa">
                         <span>Gabriela</span>
                         <p>Gestora de Vendas</p>
+                    </div>
+                    
+                    <div class="team_card">
+                        <img src="img/equipe/kayky.jpg" alt="pessoa">
+                        <span>Kayky Gonçalves</span>
+                        <p>Supervisor de Vendas</p>
                     </div>
 
                 </div>  

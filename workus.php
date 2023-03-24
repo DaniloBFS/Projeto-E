@@ -54,11 +54,12 @@
       <img src="img/shape.png" class="square" alt="" />
       <div class="form">
         <div class="contact-info">
+          <br>
           <h3 class="title">Fale Conosco!</h3>
-          <p class="text">
-            Sinta-se livre para nos mandar um email e venha trabalhar conosco!
-          </p>
+          
+          <p class="text"></p>
 
+          <br><br>
           <div class="info">
             <div class="information">
               <img src="img/contato/location.png" class="icon" alt="" />
@@ -70,7 +71,7 @@
             </div>
             <div class="information">
               <img src="img/contato/phone.png" class="icon" alt="" />
-              <p>11 948244374</p>
+              <p>(11) 93085-8585</p>
             </div>
           </div>
 
@@ -119,7 +120,7 @@
               <label for="">Mensagem</label>
               <span>Mensagem</span>
             </div>
-            <input type="submit" name="submit" value="Send" class="btn" />
+            <input type="submit" name="submit" value="Enviar" class="btn" />
           </form>
         </div>
       </div>

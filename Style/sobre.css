@@ -47,7 +47,7 @@
 
 .content_wrapp .about p{
     padding: 2% 0;
-    line-height: 4.5vh;
+    line-height: 4.0vh;
     
 }
 
@@ -78,7 +78,7 @@
 
 .enterprise p{
     padding-bottom: 20px;
-    line-height: 4.5vh;
+    line-height: 4.0vh;
 }
 
 .enterprise h3{
@@ -100,7 +100,7 @@
 }
 
 .ceo img{
-    width: 24em;
+    width: 22em;
     border-radius: 4px;
     max-height: 30em;
 }
@@ -111,7 +111,7 @@
 }
 
 .ceo p{
-    line-height: 4.5vh;
+    line-height: 4.0vh;
     text-align: justify;
 }
 
@@ -138,9 +138,10 @@
 }
 
 .team_card img{
-    height:16em;
-    width: 16em;
+    height: 12em;
+    width: 10em;
     border-radius: 4px;
+    image-resolution: 300dpi; 
 }
 
 .team_head{

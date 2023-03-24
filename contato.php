@@ -17,6 +17,14 @@
     <?php include("menu.php");?>
 
         <main class="principal">
+
+            <div class="sell_style">
+                <h3>Nossas modalidades</h3>
+                <p>Entre em contato com nossos promotores de venda para ter acesso à um atendimento exclusivo juntamente do nosso próprio sistema de logística ou nosso perfil no Mercado Livre.
+                </p>
+            </div>
+
+            <div class="option">
                 <div class="card big_card">
                     <div class="card_image_exito">
                         <img src="img/iconhead.png" alt="A Empresa"> 
@@ -30,10 +38,23 @@
                         <a href="https://api.whatsapp.com/send?phone=930858585&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div> 
-                <h2>Entre em contato com um dos nossos vendedores:</h2>
+              
+                <div class="card big_card">
+                    <div class="card_image_exito">
+                        <img src="img/logos/mercado_livre.png" alt="A Empresa"> 
+                    </div>
+                    <br>
+                   
+                    <p class="name">Acesse por aqui nosso perfil no Mercado Livre:</p>
+                    <a href="https://www.mercadolivre.com.br/" class="btn">Acesse</a> 
+                    
+                </div> 
+
+            </div>
+
+            <h3 class="choice">Nossos Promotores :</h3>
+
             <div class="card_wrapp">
-                
-                
         
                 <div class="card">
                     <div class="card_image">
@@ -50,11 +71,11 @@
                 </div>        
                 <div class="card">
                     <div class="card_image">
-                        <img src="img/equipe/Daniele-Marques-11940865897-tele-e-externo.jpg" alt="Vendedor"> 
+                        <img src="img/equipe/Daniele.jpg" alt="Vendedor"> 
                     </div>
                    
                     <p class="name">Daniele Marques</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                     
                     
                     <div class="socials">
@@ -68,7 +89,7 @@
                     </div>
                    
                     <p class="name">Victoria Amorim</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                    
                     
                     <div class="socials">
@@ -78,11 +99,11 @@
                 </div>        
                 <div class="card">
                     <div class="card_image">
-                        <img src="img/equipe/Thais-Barioni-11977678964-tele.jpg" alt="Vendedor"> 
+                        <img src="img/equipe/Thais.jpg" alt="Vendedor"> 
                     </div>
                    
                     <p class="name">Thais Barioni</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                     
                     
                     <div class="socials">
@@ -92,11 +113,11 @@
                 </div> 
                 <div class="card">
                     <div class="card_image">
-                        <img src="img/equipe/Gabriela-Ferraretto.jpg" alt="Vendedor"> 
+                        <img src="img/equipe/Gabriela.jpg" alt="Vendedor"> 
                     </div>
                    
                     <p class="name">Gabriela Ferraretto</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                     
                     <div class="socials">
                         <a href="https://api.whatsapp.com/send?phone=943645503&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
@@ -122,7 +143,7 @@
                     </div>
                    
                     <p class="name">Bruna Bueno</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                     
                     <div class="socials">
                         <a href="https://api.whatsapp.com/send?phone=943645503&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
@@ -135,7 +156,7 @@
                     </div>
                    
                     <p class="name">Barbara marques</p>
-                    <p>Promotor de Vendas - Interna</p>
+                    <p>Promotora de Vendas - Interna</p>
                     
                     <div class="socials">
                         <a href="https://api.whatsapp.com/send?phone=943645503&text=Hello this is the starting message" class="whatsapp"><i class="fab fa-whatsapp"></i></a>
@@ -160,7 +181,7 @@
                         <img src="img/equipe/Joao-Silva-11968394743-tele.jpg" alt="Vendedor"> 
                     </div>
                    
-                    <p class="name">Joao Silva</p>
+                    <p class="name">João Silva</p>
                     <p>Promotor de Vendas - Interna</p>
                     
                     <div class="socials">
