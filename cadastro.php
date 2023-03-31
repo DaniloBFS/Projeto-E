@@ -13,22 +13,42 @@
 </head>
     <body>
     <?php include("menu.php");?>
-        <main class="principal">
-            <section class="area_login">
-                <div class="login">
-                    <div>
-                        <img src="img/iconhead.png">
+    <main class="principal">
+
+        <div class="container"> 
+
+            <div class="contact-form">
+
+                <form action="" method="post" autocomplete="off">
+                    <h3 class="title">Cadastro</h3>
+
+                    <div class="input-container">
+                        <input type="email" name="email" class="input" />
+                        <label for="">Seu email</label>
+                        <span>Seu Email</span>
                     </div>
-                    <form>
-                      <input type="text" name="nome" placeholder="Digite seu nome" autofocus>
-                      <input type="email" name="email" placeholder="Digite seu email">
-                      <input type="password" name="senha" placeholder="Digite sua senha">
-                      <input type="password" name="senha" placeholder="Repita sua senha">
-                      <input type="submit" value="Cadastrar-se">
-                    </form>
-                </div>
-            </section> 
-        </main>
+                    
+                    <div class="input-container">
+                        <input type="tel" name="phone" class="input" />
+                        <label for="">Sua senha</label>
+                        <span>Sua senha</span>
+                    </div>
+
+                    <div class="input-container">
+                        <input type="tel" name="phone" class="input" />
+                        <label for="">Confirme sua senha</label>
+                        <span>Confirme sua senha</span>
+                    </div>
+        
+                    <input type="submit" name="submit" value="Cadastrar" class="btn" />
+                    
+                
+                </form>
+            </div>
+        </div>
+
+    </main>
     <?php include("footer.php");?>
+    <script src="Scripts/workus.js"></script>
     </body>
 </html>

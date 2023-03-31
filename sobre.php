@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/vovo.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Debora Brasil</span>
                         <p>Supervisora de cobrança</p>
                     </div>
@@ -91,7 +91,7 @@
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/Danilo.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Danilo Borim</span>
                         <p>Desenvolvedor de Sistemas</p>
                     </div>
@@ -145,7 +145,7 @@
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/marcelo.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Marcelo</span>
                         <p>Gerente de Vendas</p>
                     </div>
@@ -157,7 +157,7 @@
                     </div>
                     
                     <div class="team_card">
-                        <img src="img/equipe/GustavoCortez.png" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Gustavo Cortez</span>
                         <p>Supervisor de Vendas</p>
                     </div>
@@ -169,37 +169,37 @@
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/victoria.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Victória</span>  
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/thais.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Thais</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/Daniele.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Daniele</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/pi.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Pi</span>
                         <p>Supervisora de Vendas</p>
                     </div>
 
                     <div class="team_card">
-                        <img src="img/equipe/Gabriela.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Gabriela</span>
                         <p>Gestora de Vendas</p>
                     </div>
                     
                     <div class="team_card">
-                        <img src="img/equipe/kayky.jpg" alt="pessoa">
+                        <img src="img/equipe/IconePessoa.png" alt="pessoa">
                         <span>Kayky Gonçalves</span>
                         <p>Supervisor de Vendas</p>
                     </div>
@@ -226,3 +226,7 @@
         <script src="./Scripts/nav.js"></script>
     </body>
 </html>
+
+
+
+

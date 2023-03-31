@@ -13,21 +13,38 @@
 </head>
     <body>
     <?php include("menu.php");?>
-        <main class="principal">
-            <section class="area_login">
-                <div class="login">
-                    <div>
-                        <img src="img/iconhead.png">
+
+    <main class="principal">
+
+        <div class="container"> 
+
+            <div class="contact-form">
+
+                <form action="" method="post" autocomplete="off">
+                    <h3 class="title">Login</h3>
+
+                    <div class="input-container">
+                        <input type="email" name="email" class="input" />
+                        <label for="">Email</label>
+                        <span>Email</span>
                     </div>
-                    <form>
-                      <input type="text" name="nome" placeholder="Nome de usuário" autofocus>
-                      <input type="password" name="senha" placeholder="Sua senha">
-                      <input type="submit" value="entrar">
-                    </form>
-                    <p>Ainda não possui uma conta?<a href="cadastro.php">Cadastre-se</a></p>
-                </div>
-            </section> 
-        </main>
+                    
+                    <div class="input-container">
+                        <input type="tel" name="phone" class="input" />
+                        <label for="">Senha</label>
+                        <span>Senha</span>
+                    </div>
+        
+                    <input type="submit" name="submit" value="Entrar" class="btn" />
+                    
+                    <p>Não possui cadastro ainda? <a href="cadastro.php"><b>Cadastre-se</b></a>
+                
+                </form>
+            </div>
+        </div>
+
+    </main>
     <?php include("footer.php");?>
+    <script src="Scripts/workus.js"></script>
     </body>
 </html>

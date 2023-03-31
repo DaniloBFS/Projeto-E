@@ -477,7 +477,8 @@
 
         <div class="box">
             <img src="img/prod_s_fundo/pipa.jpg" alt="">
-            <h3>Salgadinho Bacon Boby - 60g</h3>
+            <h3>Pipoca Pipa - 60g</h3>
+            <br>
             <p>Pacote com 10 unidades.</p>
             <span class="price">R$ 2,37 a unidade</span>
             <p class="old_price">R$ 9,90 a unidade</p>
